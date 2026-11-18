@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "guide": {
     "entries": {
       "characters": [
@@ -151,7 +151,7 @@
             "affiliation_es": "Codirige Only Raw Records"
           },
           "sections": {
-            "story": "Boobie made his name on the streets, then went legit — or close to it: real estate, a strip club and a recording studio. He runs the Only Raw Records label with Dre'Quan Priest.",
+            "story": "Boobie made his name on the streets, then went legit, or close to it: real estate, a strip club and a recording studio. He runs the Only Raw Records label with Dre'Quan Priest.",
             "story_fr": "Boobie s'est fait un nom dans la rue, puis s'est rangé, ou presque : immobilier, club de strip-tease et studio d'enregistrement. Il dirige le label Only Raw Records avec Dre'Quan Priest.",
             "story_es": "Boobie se hizo un nombre en la calle y luego se volvió legal, o casi: bienes raíces, un club de striptease y un estudio de grabación. Dirige el sello Only Raw Records con Dre'Quan Priest."
           }
@@ -3996,6 +3996,112 @@
             "notes": "Tracks confirmed so far:\n• \"Skylarking\"",
             "notes_fr": "Morceaux confirmés pour l'instant :\n• \"Skylarking\"",
             "notes_es": "Canciones confirmadas por ahora:\n• \"Skylarking\""
+          }
+        }
+      ],
+      "places": [
+        {
+          "id": "place-vice-city",
+          "name": "Vice City",
+          "summary": "Excess is the watchword in America's capital of sun and fun.",
+          "summary_fr": "L'excès comme mot d'ordre, dans la capitale américaine du soleil et de la fête.",
+          "summary_es": "El exceso como lema en la capital estadounidense del sol y la diversión.",
+          "fields": {
+            "district": "East coast of Leonida",
+            "district_fr": "Côte est de Leonida",
+            "district_es": "Costa este de Leonida"
+          },
+          "sections": {
+            "description": "The '80s are long gone, but Vice City is still America's capital of sunshine and entertainment: all the glamour, buzz and greed of the country packed into one city.\n\nEvery neighborhood has its own character, from the pastel Art Deco hotels and white sand of Ocean Beach to the busy bakeries of Little Cuba, the knock-off goods at the Tisha-Wocka flea market and the Port of Vice City, the cruise capital of the world.",
+            "description_fr": "Les années 80 sont loin, mais Vice City reste la capitale américaine du soleil et de la fête : tout le glamour, l'énergie et l'appât du gain de l'Amérique réunis dans une seule ville.\n\nChaque quartier a son caractère, des hôtels Art déco pastel et du sable blanc d'Ocean Beach aux boulangeries cubaines animées de Little Cuba, en passant par les contrefaçons du marché aux puces de Tisha-Wocka et le port de Vice City, capitale mondiale des croisières.",
+            "description_es": "Los 80 quedaron muy atrás, pero Vice City sigue siendo la capital estadounidense del sol y la diversión: todo el glamour, la energía y la codicia del país en una sola ciudad.\n\nCada barrio tiene su carácter, desde los hoteles art déco en tonos pastel y la arena blanca de Ocean Beach hasta las animadas panaderías de Little Cuba, las imitaciones del mercadillo de Tisha-Wocka y el puerto de Vice City, capital mundial de los cruceros."
+          }
+        },
+        {
+          "id": "place-leonida-keys",
+          "name": "Leonida Keys",
+          "summary": "A tropical island chain: packed bars, flip-flops required.",
+          "summary_fr": "Un archipel tropical : bars bondés et tenue décontractée de rigueur.",
+          "summary_es": "Un archipiélago tropical: bares llenos y ropa informal obligatoria.",
+          "fields": {
+            "district": "Southern island chain",
+            "district_fr": "Archipel du sud",
+            "district_es": "Archipiélago del sur"
+          },
+          "sections": {
+            "description": "Life is simple and easygoing on this tropical island chain: grab a few drinks and settle into a deck chair. But stay alert: you're at the gates of some of the most beautiful, and most dangerous, waters in America.\n\nIt's home turf for Brian Heder and his boatyard, and where Jason Duval lives, in Key Lento.",
+            "description_fr": "Dans cet archipel tropical, la vie est simple et tranquille : quelques verres, un transat, et c'est tout. Mais attention, on est aux portes de certaines des eaux les plus belles, et les plus dangereuses, d'Amérique.\n\nC'est le fief de Brian Heder et de son chantier naval, et là où vit Jason Duval, à Key Lento.",
+            "description_es": "En este archipiélago tropical la vida es sencilla y tranquila: unas copas y una tumbona. Pero cuidado: estás a las puertas de algunas de las aguas más bonitas, y más peligrosas, de Estados Unidos.\n\nEs el territorio de Brian Heder y su astillero, y donde vive Jason Duval, en Key Lento."
+          }
+        },
+        {
+          "id": "place-grassrivers",
+          "name": "Grassrivers",
+          "summary": "The untamed crown jewel of Leonida's swamps.",
+          "summary_fr": "Le joyau indomptable des marécages de Leonida.",
+          "summary_es": "La joya indomable de los pantanos de Leonida.",
+          "fields": {
+            "district": "Central and southern wetlands",
+            "district_fr": "Marécages du centre et du sud",
+            "district_es": "Humedales del centro y del sur"
+          },
+          "sections": {
+            "description": "You never know what's lurking beneath the surface of this wild expanse. Alligators are the main attraction, but there are far more dangerous predators out there, not to mention the strange things you'll find in the mangroves.\n\nIt's also Back Country Radio territory, where Mud Dog Mike reports from his airboat.",
+            "description_fr": "On ne sait jamais ce qui se cache sous la surface de cette étendue sauvage. Les alligators en sont la principale attraction, mais il y a des prédateurs bien plus dangereux, sans parler des découvertes étranges qui attendent dans la mangrove.\n\nC'est aussi le territoire de Back Country Radio, où Mud Dog Mike fait ses reportages depuis son hydroglisseur.",
+            "description_es": "Nunca sabes qué acecha bajo la superficie de esta extensión salvaje. Los caimanes son la atracción principal, pero hay depredadores mucho más peligrosos, por no hablar de lo extraño que encontrarás en el manglar.\n\nTambién es territorio de Back Country Radio, donde Mud Dog Mike informa desde su aerodeslizador."
+          }
+        },
+        {
+          "id": "place-port-gellhorn",
+          "name": "Port Gellhorn",
+          "summary": "Leonida's forgotten coast, living hard and fast.",
+          "summary_fr": "La côte oubliée de Leonida, où l'on vit intensément.",
+          "summary_es": "La costa olvidada de Leonida, donde se vive a tope.",
+          "fields": {
+            "district": "West coast of Leonida",
+            "district_fr": "Côte ouest de Leonida",
+            "district_es": "Costa oeste de Leonida"
+          },
+          "sections": {
+            "description": "Seedy motels, abandoned amusement parks and empty strip malls won't bring the tourists back to this former resort town. But a new economy has emerged here, built on beer, painkillers and energy drinks.\n\nHop on your dirt bike, and keep a hand on your wallet.",
+            "description_fr": "Ce ne sont pas ses motels miteux, ses parcs d'attractions abandonnés et ses centres commerciaux déserts qui feront revenir les touristes dans cette ancienne station balnéaire. Une nouvelle économie y est pourtant apparue, à base de bière, d'antidouleurs et de boissons énergisantes.\n\nEnfourchez votre moto de cross, et gardez une main sur votre portefeuille.",
+            "description_es": "Los moteles cutres, los parques de atracciones abandonados y los centros comerciales vacíos no traerán de vuelta a los turistas a este antiguo destino de vacaciones. Pero aquí ha surgido una nueva economía, a base de cerveza, analgésicos y bebidas energéticas.\n\nSúbete a tu moto de cross y no sueltes la cartera."
+          }
+        },
+        {
+          "id": "place-ambrosia",
+          "name": "Ambrosia",
+          "summary": "Refined Leonida, where the fight for prosperity begins.",
+          "summary_fr": "Une Leonida raffinée, où commence la bataille pour la prospérité.",
+          "summary_es": "Una Leonida refinada, donde empieza la lucha por la prosperidad.",
+          "fields": {
+            "district": "Inland heart of Leonida",
+            "district_fr": "Cœur de Leonida, dans les terres",
+            "district_es": "Corazón de Leonida, en el interior"
+          },
+          "sections": {
+            "description": "In the heart of Leonida, American industry and old-fashioned values still rule, whatever the cost. The Allied Crystal sugar refinery provides the jobs, while the local biker gang, the Final Chapter MC, supplies pretty much everything else.",
+            "description_fr": "Au cœur de Leonida, l'industrie américaine et les valeurs d'antan règnent encore, coûte que coûte. La raffinerie de sucre Allied Crystal fournit les emplois, et le gang de motards du coin, le Final Chapter MC, s'occupe à peu près de tout le reste.",
+            "description_es": "En el corazón de Leonida, la industria estadounidense y los valores de antaño siguen mandando, cueste lo que cueste. La refinería de azúcar Allied Crystal da los empleos, y la banda de moteros local, el Final Chapter MC, se encarga de casi todo lo demás."
+          }
+        },
+        {
+          "id": "place-mount-kalaga",
+          "name": "Mount Kalaga National Park",
+          "name_fr": "Parc national de Mount Kalaga",
+          "name_es": "Parque Nacional de Mount Kalaga",
+          "summary": "Wild, very wild: fresh air at the top of the state.",
+          "summary_fr": "Une région sauvage, très sauvage : le plein d'air pur au nord de l'État.",
+          "summary_es": "Salvaje, muy salvaje: aire puro en el norte del estado.",
+          "fields": {
+            "district": "Northern edge of Leonida",
+            "district_fr": "Nord de Leonida",
+            "district_es": "Norte de Leonida"
+          },
+          "sections": {
+            "description": "A national landmark on the state's northern border, Mount Kalaga offers great spots for fishing, hunting and hiking.\n\nIn the lush woods around it, mystic backwoods folk and other paranoid extremists live side by side, far from the government's eyes. Cougars and white-tailed deer roam the park.",
+            "description_fr": "Symbole national à la frontière nord de l'État, le Mount Kalaga offre de superbes coins de pêche, de chasse et de randonnée.\n\nDans les sous-bois luxuriants qui l'entourent, des ermites portés sur le mysticisme et d'autres extrémistes paranoïaques vivent côte à côte, loin des yeux du gouvernement. Pumas et cerfs de Virginie parcourent le parc.",
+            "description_es": "Símbolo nacional en la frontera norte del estado, el Mount Kalaga ofrece grandes lugares para pescar, cazar y hacer senderismo.\n\nEn los frondosos bosques que lo rodean conviven montañeses místicos y otros extremistas paranoicos, lejos de la mirada del gobierno. Pumas y ciervos de cola blanca recorren el parque."
           }
         }
       ]
