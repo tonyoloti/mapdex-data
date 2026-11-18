@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 4,
   "guide": {
     "entries": {
       "characters": [
@@ -64,6 +64,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/baseball-bat.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -81,6 +82,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/crowbar.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -98,6 +100,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/fire-bottle.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -115,6 +118,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/fist.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -132,6 +136,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/flashlight.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -149,6 +154,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/golf-driver.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -166,6 +172,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/golf-iron.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -183,6 +190,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/golf-putter.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -200,6 +208,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/golf-wedge.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -217,6 +226,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/hammer.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -234,6 +244,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/knife.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -251,6 +262,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/pool-cue.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -268,6 +280,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/torch-flashlight.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -285,6 +298,7 @@
           "group": "Melee",
           "group_fr": "Mêlée",
           "group_es": "Cuerpo a cuerpo",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/mini-golf-club.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -300,6 +314,7 @@
           "group": "Handguns",
           "group_fr": "Pistolets",
           "group_es": "Pistolas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/mustang-357.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -317,6 +332,7 @@
           "group": "Handguns",
           "group_fr": "Pistolets",
           "group_es": "Pistolas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/pistol.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -334,6 +350,7 @@
           "group": "Handguns",
           "group_fr": "Pistolets",
           "group_es": "Pistolas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/polymer-pistol.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -351,6 +368,7 @@
           "group": "Handguns",
           "group_fr": "Pistolets",
           "group_es": "Pistolas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/capo-pistol.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -368,6 +386,7 @@
           "group": "Handguns",
           "group_fr": "Pistolets",
           "group_es": "Pistolas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/service-pistol.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -385,6 +404,7 @@
           "group": "Handguns",
           "group_fr": "Pistolets",
           "group_es": "Pistolas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/compact-pistol.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -402,6 +422,7 @@
           "group": "Shotguns",
           "group_fr": "Fusils à pompe",
           "group_es": "Escopetas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/double-barreled-shotgun.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -419,6 +440,7 @@
           "group": "Machine guns",
           "group_fr": "Mitraillettes",
           "group_es": "Ametralladoras",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/compact-smg.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -436,6 +458,7 @@
           "group": "Machine guns",
           "group_fr": "Mitraillettes",
           "group_es": "Ametralladoras",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/heavy-machine-gun.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -453,6 +476,7 @@
           "group": "Machine guns",
           "group_fr": "Mitraillettes",
           "group_es": "Ametralladoras",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/micro-smg.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -470,6 +494,7 @@
           "group": "Machine guns",
           "group_fr": "Mitraillettes",
           "group_es": "Ametralladoras",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/tactical-smg.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -487,6 +512,7 @@
           "group": "Assault rifles",
           "group_fr": "Fusils d'assaut",
           "group_es": "Fusiles de asalto",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/assault-rifle.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -504,6 +530,7 @@
           "group": "Assault rifles",
           "group_fr": "Fusils d'assaut",
           "group_es": "Fusiles de asalto",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/duke-carbine.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -521,6 +548,7 @@
           "group": "Assault rifles",
           "group_fr": "Fusils d'assaut",
           "group_es": "Fusiles de asalto",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/duke-special-ops-carbine.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -538,6 +566,7 @@
           "group": "Sniper rifles",
           "group_fr": "Fusils de précision",
           "group_es": "Rifles de francotirador",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/bolt-action-sniper.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -555,6 +584,7 @@
           "group": "Sniper rifles",
           "group_fr": "Fusils de précision",
           "group_es": "Rifles de francotirador",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/hunter-sniper.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -572,6 +602,7 @@
           "group": "Sniper rifles",
           "group_fr": "Fusils de précision",
           "group_es": "Rifles de francotirador",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/duke-assault-sniper-rifle.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -589,6 +620,7 @@
           "group": "Heavy weapons",
           "group_fr": "Armes lourdes",
           "group_es": "Armas pesadas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/grenade-launcher.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -606,6 +638,7 @@
           "group": "Heavy weapons",
           "group_fr": "Armes lourdes",
           "group_es": "Armas pesadas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/rocket-launcher.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -623,6 +656,7 @@
           "group": "Heavy weapons",
           "group_fr": "Armes lourdes",
           "group_es": "Armas pesadas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/speargun.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -640,6 +674,7 @@
           "group": "Thrown",
           "group_fr": "Armes de jet",
           "group_es": "Arrojadizas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/flashbang.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -657,6 +692,7 @@
           "group": "Thrown",
           "group_fr": "Armes de jet",
           "group_es": "Arrojadizas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/golf-balls.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -673,6 +709,7 @@
           "group": "Thrown",
           "group_fr": "Armes de jet",
           "group_es": "Arrojadizas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/grenade.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -690,6 +727,7 @@
           "group": "Thrown",
           "group_fr": "Armes de jet",
           "group_es": "Arrojadizas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/molotov.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -707,6 +745,7 @@
           "group": "Thrown",
           "group_fr": "Armes de jet",
           "group_es": "Arrojadizas",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/weapons/smoke-grenade.jpg",
           "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
           "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
           "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
@@ -2708,7 +2747,865 @@
             "type_es": "Tipo desconocido"
           }
         }
+      ],
+      "animals": [
+        {
+          "id": "animal-cougar",
+          "name": "Cougar",
+          "name_fr": "Puma",
+          "name_es": "Puma",
+          "group": "Mammals",
+          "group_fr": "Mammifères",
+          "group_es": "Mamíferos",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "Mount Kalaga park",
+            "habitat_fr": "Parc de Mount Kalaga",
+            "habitat_es": "Parque de Mount Kalaga"
+          },
+          "sections": {
+            "description": "A large, solitary wild cat that hunts by ambush.",
+            "description_fr": "Grand félin solitaire qui chasse à l'affût.",
+            "description_es": "Gran felino solitario que caza al acecho."
+          }
+        },
+        {
+          "id": "animal-white-tailed-deer",
+          "name": "White-tailed Deer",
+          "name_fr": "Cerf de Virginie",
+          "name_es": "Ciervo de cola blanca",
+          "group": "Mammals",
+          "group_fr": "Mammifères",
+          "group_es": "Mamíferos",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "Mount Kalaga park",
+            "habitat_fr": "Parc de Mount Kalaga",
+            "habitat_es": "Parque de Mount Kalaga"
+          },
+          "sections": {
+            "description": "A shy deer that flashes its white tail when it runs off.",
+            "description_fr": "Cerf craintif qui montre sa queue blanche quand il s'enfuit.",
+            "description_es": "Ciervo asustadizo que muestra su cola blanca al huir."
+          }
+        },
+        {
+          "id": "animal-raccoon",
+          "name": "Raccoon",
+          "name_fr": "Raton laveur",
+          "name_es": "Mapache",
+          "group": "Mammals",
+          "group_fr": "Mammifères",
+          "group_es": "Mamíferos",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A masked night-time scavenger, at home near people and bins.",
+            "description_fr": "Petit pillard masqué et nocturne, à l'aise près des maisons et des poubelles.",
+            "description_es": "Carroñero nocturno con antifaz, a gusto cerca de casas y basura."
+          }
+        },
+        {
+          "id": "animal-wild-boar",
+          "name": "Wild Boar",
+          "name_fr": "Sanglier",
+          "name_es": "Jabalí",
+          "group": "Mammals",
+          "group_fr": "Mammifères",
+          "group_es": "Mamíferos",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A sturdy wild pig that can charge when cornered.",
+            "description_fr": "Cochon sauvage trapu, qui peut charger s'il se sent acculé.",
+            "description_es": "Cerdo salvaje robusto que puede embestir si se siente acorralado."
+          }
+        },
+        {
+          "id": "animal-stray-cat",
+          "name": "Stray Cat",
+          "name_fr": "Chat errant",
+          "name_es": "Gato callejero",
+          "group": "Mammals",
+          "group_fr": "Mammifères",
+          "group_es": "Mamíferos",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A street cat that roams alleys and backyards.",
+            "description_fr": "Chat des rues qui traîne dans les ruelles et les arrière-cours.",
+            "description_es": "Gato de la calle que recorre callejones y patios."
+          }
+        },
+        {
+          "id": "animal-fox",
+          "name": "Fox",
+          "name_fr": "Renard",
+          "name_es": "Zorro",
+          "group": "Mammals",
+          "group_fr": "Mammifères",
+          "group_es": "Mamíferos",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A quick, wary predator, mostly seen at dusk.",
+            "description_fr": "Prédateur vif et méfiant, surtout visible au crépuscule.",
+            "description_es": "Depredador rápido y cauteloso, visto sobre todo al anochecer."
+          }
+        },
+        {
+          "id": "animal-squirrel",
+          "name": "Squirrel",
+          "name_fr": "Écureuil",
+          "name_es": "Ardilla",
+          "group": "Mammals",
+          "group_fr": "Mammifères",
+          "group_es": "Mamíferos",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A small tree climber, common in parks.",
+            "description_fr": "Petit grimpeur des arbres, courant dans les parcs.",
+            "description_es": "Pequeña trepadora de árboles, común en los parques."
+          }
+        },
+        {
+          "id": "animal-nutria",
+          "name": "Nutria",
+          "name_fr": "Ragondin",
+          "name_es": "Coipo",
+          "group": "Mammals",
+          "group_fr": "Mammifères",
+          "group_es": "Mamíferos",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A large rodent that lives along canals and marshes.",
+            "description_fr": "Gros rongeur qui vit au bord des canaux et des marais.",
+            "description_es": "Gran roedor que vive junto a canales y pantanos."
+          }
+        },
+        {
+          "id": "animal-beaver",
+          "name": "Beaver",
+          "name_fr": "Castor",
+          "name_es": "Castor",
+          "group": "Mammals",
+          "group_fr": "Mammifères",
+          "group_es": "Mamíferos",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A builder of dams with a flat, paddle-shaped tail.",
+            "description_fr": "Bâtisseur de barrages à la queue plate en forme de pagaie.",
+            "description_es": "Constructor de presas con cola plana en forma de remo."
+          }
+        },
+        {
+          "id": "animal-bobcat",
+          "name": "Bobcat",
+          "name_es": "Lince rojo",
+          "group": "Mammals",
+          "group_fr": "Mammifères",
+          "group_es": "Mamíferos",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A wild cat with a short tail and tufted ears, smaller than a cougar.",
+            "description_fr": "Lynx roux à queue courte et oreilles en pinceau, plus petit que le puma.",
+            "description_es": "Felino de cola corta y orejas con penachos, más pequeño que el puma."
+          }
+        },
+        {
+          "id": "animal-miniature-pinscher",
+          "name": "Miniature Pinscher",
+          "name_fr": "Mini Pinscher",
+          "name_es": "Pinscher miniatura",
+          "group": "Dogs",
+          "group_fr": "Chiens",
+          "group_es": "Perros",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "All over the city",
+            "habitat_fr": "Partout en ville",
+            "habitat_es": "Por toda la ciudad"
+          },
+          "sections": {
+            "description": "A tiny, lively dog full of energy.",
+            "description_fr": "Tout petit chien, vif et plein d'énergie.",
+            "description_es": "Perro diminuto, vivaz y lleno de energía."
+          }
+        },
+        {
+          "id": "animal-rottweiler",
+          "name": "Rottweiler",
+          "group": "Dogs",
+          "group_fr": "Chiens",
+          "group_es": "Perros",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "All over the city",
+            "habitat_fr": "Partout en ville",
+            "habitat_es": "Por toda la ciudad"
+          },
+          "sections": {
+            "description": "A powerful, protective guard dog.",
+            "description_fr": "Chien de garde puissant et protecteur.",
+            "description_es": "Perro guardián potente y protector."
+          }
+        },
+        {
+          "id": "animal-german-shepherd",
+          "name": "German Shepherd",
+          "name_fr": "Berger allemand",
+          "name_es": "Pastor alemán",
+          "group": "Dogs",
+          "group_fr": "Chiens",
+          "group_es": "Perros",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "All over the city",
+            "habitat_fr": "Partout en ville",
+            "habitat_es": "Por toda la ciudad"
+          },
+          "sections": {
+            "description": "A smart working dog, often used by police and security.",
+            "description_fr": "Chien de travail intelligent, souvent employé par la police et la sécurité.",
+            "description_es": "Perro de trabajo inteligente, usado a menudo por la policía y la seguridad."
+          }
+        },
+        {
+          "id": "animal-chihuahua",
+          "name": "Chihuahua",
+          "group": "Dogs",
+          "group_fr": "Chiens",
+          "group_es": "Perros",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "All over the city",
+            "habitat_fr": "Partout en ville",
+            "habitat_es": "Por toda la ciudad"
+          },
+          "sections": {
+            "description": "The smallest of dogs, with a big personality.",
+            "description_fr": "Le plus petit des chiens, au caractère bien trempé.",
+            "description_es": "El más pequeño de los perros, con mucho carácter."
+          }
+        },
+        {
+          "id": "animal-doberman",
+          "name": "Doberman",
+          "name_fr": "Dobermann",
+          "name_es": "Dóberman",
+          "group": "Dogs",
+          "group_fr": "Chiens",
+          "group_es": "Perros",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "All over the city",
+            "habitat_fr": "Partout en ville",
+            "habitat_es": "Por toda la ciudad"
+          },
+          "sections": {
+            "description": "A sleek, alert guard dog.",
+            "description_fr": "Chien de garde élancé et toujours aux aguets.",
+            "description_es": "Perro guardián esbelto y siempre alerta."
+          }
+        },
+        {
+          "id": "animal-alligator",
+          "name": "Alligator",
+          "name_es": "Aligátor",
+          "group": "Reptiles",
+          "group_fr": "Reptiles",
+          "group_es": "Reptiles",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "Grassrivers swamps",
+            "habitat_fr": "Marécages des Grassrivers",
+            "habitat_es": "Pantanos de Grassrivers"
+          },
+          "sections": {
+            "description": "A heavy predator that waits in still water. Keep your distance from the banks.",
+            "description_fr": "Prédateur massif qui attend dans l'eau calme. Gardez vos distances avec les berges.",
+            "description_es": "Depredador pesado que acecha en aguas tranquilas. Mantén la distancia de las orillas."
+          }
+        },
+        {
+          "id": "animal-sea-turtle",
+          "name": "Sea Turtle",
+          "name_fr": "Tortue marine",
+          "name_es": "Tortuga marina",
+          "group": "Reptiles",
+          "group_fr": "Reptiles",
+          "group_es": "Reptiles",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A slow ocean swimmer that comes ashore to nest.",
+            "description_fr": "Nageuse lente de l'océan, qui vient pondre sur les plages.",
+            "description_es": "Nadadora lenta del océano que llega a la playa para anidar."
+          }
+        },
+        {
+          "id": "animal-snake",
+          "name": "Snake",
+          "name_fr": "Serpent",
+          "name_es": "Serpiente",
+          "group": "Reptiles",
+          "group_fr": "Reptiles",
+          "group_es": "Reptiles",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "Snakes hide in tall grass and undergrowth.",
+            "description_fr": "Les serpents se cachent dans les hautes herbes et les sous-bois.",
+            "description_es": "Las serpientes se esconden entre la hierba alta y la maleza."
+          }
+        },
+        {
+          "id": "animal-iguana",
+          "name": "Iguana",
+          "name_fr": "Iguane",
+          "group": "Reptiles",
+          "group_fr": "Reptiles",
+          "group_es": "Reptiles",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A large lizard that basks in the sun on walls and trees.",
+            "description_fr": "Gros lézard qui se chauffe au soleil sur les murs et les arbres.",
+            "description_es": "Lagarto grande que toma el sol en muros y árboles."
+          }
+        },
+        {
+          "id": "animal-burmese-python",
+          "name": "Burmese Python",
+          "name_fr": "Python birman",
+          "name_es": "Pitón birmana",
+          "group": "Reptiles",
+          "group_fr": "Reptiles",
+          "group_es": "Reptiles",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A giant constrictor snake that thrives in wetlands.",
+            "description_fr": "Serpent constricteur géant, très à l'aise dans les zones humides.",
+            "description_es": "Serpiente constrictora gigante que prospera en los humedales."
+          }
+        },
+        {
+          "id": "animal-corn-snake",
+          "name": "Corn Snake",
+          "name_fr": "Couleuvre des blés",
+          "name_es": "Serpiente del maíz",
+          "group": "Reptiles",
+          "group_fr": "Reptiles",
+          "group_es": "Reptiles",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A harmless, orange-patterned snake.",
+            "description_fr": "Serpent inoffensif aux motifs orangés.",
+            "description_es": "Serpiente inofensiva con dibujos anaranjados."
+          }
+        },
+        {
+          "id": "animal-flamingo",
+          "name": "Flamingo",
+          "name_fr": "Flamant rose",
+          "name_es": "Flamenco",
+          "group": "Birds",
+          "group_fr": "Oiseaux",
+          "group_es": "Aves",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "Coastline",
+            "habitat_fr": "Côtes",
+            "habitat_es": "Costas"
+          },
+          "sections": {
+            "description": "A pink wader that often stands on one leg.",
+            "description_fr": "Échassier rose qui se tient souvent sur une patte.",
+            "description_es": "Ave zancuda rosa que suele apoyarse en una sola pata."
+          }
+        },
+        {
+          "id": "animal-brown-pelican",
+          "name": "Brown Pelican",
+          "name_fr": "Pélican brun",
+          "name_es": "Pelícano pardo",
+          "group": "Birds",
+          "group_fr": "Oiseaux",
+          "group_es": "Aves",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "Coastline",
+            "habitat_fr": "Côtes",
+            "habitat_es": "Costas"
+          },
+          "sections": {
+            "description": "A coastal bird that dives head-first to catch fish.",
+            "description_fr": "Oiseau côtier qui plonge tête la première pour pêcher.",
+            "description_es": "Ave costera que se lanza de cabeza para pescar."
+          }
+        },
+        {
+          "id": "animal-white-pelican",
+          "name": "White Pelican",
+          "name_fr": "Pélican blanc",
+          "name_es": "Pelícano blanco",
+          "group": "Birds",
+          "group_fr": "Oiseaux",
+          "group_es": "Aves",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "Coastline",
+            "habitat_fr": "Côtes",
+            "habitat_es": "Costas"
+          },
+          "sections": {
+            "description": "A big white pelican that fishes from the surface, often in groups.",
+            "description_fr": "Grand pélican blanc qui pêche en surface, souvent en groupe.",
+            "description_es": "Gran pelícano blanco que pesca en la superficie, a menudo en grupo."
+          }
+        },
+        {
+          "id": "animal-seagull",
+          "name": "Seagull",
+          "name_fr": "Mouette",
+          "name_es": "Gaviota",
+          "group": "Birds",
+          "group_fr": "Oiseaux",
+          "group_es": "Aves",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "Coastline",
+            "habitat_fr": "Côtes",
+            "habitat_es": "Costas"
+          },
+          "sections": {
+            "description": "A noisy seabird, never far from beaches and harbours.",
+            "description_fr": "Oiseau marin bruyant, jamais loin des plages et des ports.",
+            "description_es": "Ave marina ruidosa, nunca lejos de playas y puertos."
+          }
+        },
+        {
+          "id": "animal-duck",
+          "name": "Duck",
+          "name_fr": "Canard",
+          "name_es": "Pato",
+          "group": "Birds",
+          "group_fr": "Oiseaux",
+          "group_es": "Aves",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A common waterbird found on ponds and canals.",
+            "description_fr": "Oiseau d'eau commun des étangs et des canaux.",
+            "description_es": "Ave acuática común en estanques y canales."
+          }
+        },
+        {
+          "id": "animal-heron",
+          "name": "Heron",
+          "name_fr": "Héron",
+          "name_es": "Garza",
+          "group": "Birds",
+          "group_fr": "Oiseaux",
+          "group_es": "Aves",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A tall wader that stalks fish in shallow water.",
+            "description_fr": "Grand échassier qui guette les poissons en eau peu profonde.",
+            "description_es": "Ave zancuda alta que acecha peces en aguas poco profundas."
+          }
+        },
+        {
+          "id": "animal-roseate-spoonbill",
+          "name": "Roseate Spoonbill",
+          "name_fr": "Spatule rosée",
+          "name_es": "Espátula rosada",
+          "group": "Birds",
+          "group_fr": "Oiseaux",
+          "group_es": "Aves",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A pink wader with a flat, spoon-shaped bill.",
+            "description_fr": "Échassier rose au bec plat en forme de cuillère.",
+            "description_es": "Ave zancuda rosa con un pico plano en forma de cuchara."
+          }
+        },
+        {
+          "id": "animal-whooping-crane",
+          "name": "Whooping Crane",
+          "name_fr": "Grue blanche",
+          "name_es": "Grulla blanca",
+          "group": "Birds",
+          "group_fr": "Oiseaux",
+          "group_es": "Aves",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A tall white crane, one of the rarest birds in North America.",
+            "description_fr": "Grande grue blanche, l'un des oiseaux les plus rares d'Amérique du Nord.",
+            "description_es": "Gran grulla blanca, una de las aves más raras de Norteamérica."
+          }
+        },
+        {
+          "id": "animal-dove",
+          "name": "Dove",
+          "name_fr": "Tourterelle",
+          "name_es": "Tórtola",
+          "group": "Birds",
+          "group_fr": "Oiseaux",
+          "group_es": "Aves",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A gentle bird with a soft, cooing call.",
+            "description_fr": "Oiseau paisible au roucoulement doux.",
+            "description_es": "Ave tranquila de arrullo suave."
+          }
+        },
+        {
+          "id": "animal-shark",
+          "name": "Shark",
+          "name_fr": "Requin",
+          "name_es": "Tiburón",
+          "group": "Marine life",
+          "group_fr": "Vie marine",
+          "group_es": "Vida marina",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "Off the Leonida Keys",
+            "habitat_fr": "Au large des Leonida Keys",
+            "habitat_es": "Frente a los Leonida Keys"
+          },
+          "sections": {
+            "description": "A predator of the open sea. Think twice before swimming far out.",
+            "description_fr": "Prédateur du large. Réfléchissez avant de nager trop loin.",
+            "description_es": "Depredador de mar abierto. Piénsalo antes de nadar lejos."
+          }
+        },
+        {
+          "id": "animal-dolphin",
+          "name": "Dolphin",
+          "name_fr": "Dauphin",
+          "name_es": "Delfín",
+          "group": "Marine life",
+          "group_fr": "Vie marine",
+          "group_es": "Vida marina",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "fields": {
+            "habitat": "Off the Leonida Keys",
+            "habitat_fr": "Au large des Leonida Keys",
+            "habitat_es": "Frente a los Leonida Keys"
+          },
+          "sections": {
+            "description": "A playful marine mammal that travels in pods.",
+            "description_fr": "Mammifère marin joueur qui se déplace en groupe.",
+            "description_es": "Mamífero marino juguetón que viaja en grupo."
+          }
+        },
+        {
+          "id": "animal-manatee",
+          "name": "Manatee",
+          "name_fr": "Lamantin",
+          "name_es": "Manatí",
+          "group": "Marine life",
+          "group_fr": "Vie marine",
+          "group_es": "Vida marina",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A slow, gentle giant of warm coastal waters.",
+            "description_fr": "Géant lent et paisible des eaux côtières chaudes.",
+            "description_es": "Gigante lento y tranquilo de las aguas costeras cálidas."
+          }
+        },
+        {
+          "id": "animal-american-eel",
+          "name": "American Eel",
+          "name_fr": "Anguille américaine",
+          "name_es": "Anguila americana",
+          "group": "Marine life",
+          "group_fr": "Vie marine",
+          "group_es": "Vida marina",
+          "summary": "Spotted in GTA 6. Exact locations and behaviour coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Emplacements précis et comportement à venir.",
+          "summary_es": "Visto en GTA 6. Ubicaciones exactas y comportamiento muy pronto.",
+          "sections": {
+            "description": "A snake-like fish that lives in rivers and estuaries.",
+            "description_fr": "Poisson serpentiforme des rivières et des estuaires.",
+            "description_es": "Pez de aspecto de serpiente que vive en ríos y estuarios."
+          }
+        }
       ]
     }
-  }
+  },
+  "news": [
+    {
+      "id": "reviews-metacritic-99",
+      "date": "2026-11-18",
+      "kind": "article",
+      "title": "Reviews are in: 99 on Metacritic",
+      "title_fr": "Les tests sont tombés : 99 sur Metacritic",
+      "title_es": "Ya hay análisis: 99 en Metacritic",
+      "summary": "With more than 100 reviews published the day before launch, GTA VI averages 99 on Metacritic and ties the all-time record held by Ocarina of Time since 1998. Critics praise Leonida's detail; the 30 fps cap is the main complaint.",
+      "summary_fr": "Avec plus de 100 tests publiés la veille de la sortie, GTA VI affiche 99 de moyenne sur Metacritic et égale le record d'Ocarina of Time, qui tenait depuis 1998. La presse salue le niveau de détail de Leonida ; les 30 images par seconde sont le principal reproche. Jeuxvideo.com lui donne 19/20.",
+      "summary_es": "Con más de 100 análisis publicados la víspera del lanzamiento, GTA VI promedia un 99 en Metacritic e iguala el récord de Ocarina of Time, vigente desde 1998. La crítica elogia el detalle de Leonida; los 30 fps son la principal queja.",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-metacritic-score-makes-it-the-highest-rated-game-of-all-time-matching-the-og-zelda-ocarina-of-time/",
+      "source_fr": "Jeux.ca",
+      "url_fr": "https://jeux.ca/tests-gta-6-notes-metacritic/",
+      "source_es": "Playnius",
+      "url_es": "https://playnius.com/noticias/6944/gta-6-99-metacritic-notas-analisis"
+    },
+    {
+      "id": "release-times-midnight",
+      "date": "2026-11-18",
+      "kind": "article",
+      "title": "Unlocks at midnight local time, New Zealand first",
+      "title_fr": "Déblocage à minuit heure locale, la Nouvelle-Zélande en premier",
+      "title_es": "Se desbloquea a medianoche hora local, Nueva Zelanda primero",
+      "summary": "GTA VI unlocks at midnight local time on November 19 in each region. New Zealand goes first, at 11:00 UTC on November 18, and the Americas come last. On Xbox, switching the console region to New Zealand lets players start early.",
+      "summary_fr": "GTA VI se débloque le 19 novembre à minuit, heure locale, dans chaque pays : en France, c'est dans la nuit de mercredi à jeudi. La Nouvelle-Zélande ouvre le bal le 18 à midi (heure de Paris). Sur Xbox, passer la console en région Nouvelle-Zélande permet de jouer en avance.",
+      "summary_es": "GTA VI se desbloquea el 19 de noviembre a medianoche, hora local, en cada región. Nueva Zelanda es la primera, el 18 de noviembre a las 11:00 UTC, y América la última. En Xbox, cambiar la región de la consola a Nueva Zelanda permite jugar antes.",
+      "source": "VICE",
+      "url": "https://www.vice.com/en/article/gta-6-ps5-release-times-new-zealand-method/",
+      "source_fr": "Xboxygen",
+      "url_fr": "https://www.xboxygen.com/News/372940-gta-6-comment-jouer-en-avance-astuce",
+      "source_es": "Vandal",
+      "url_es": "https://vandal.elespanol.com/noticia/2026321030/hora-de-lanzamiento-gta-6-en-espana-y-el-resto-del-mundo-a-que-hora-se-desbloquea-el-esperado-juego-de-rockstar/"
+    },
+    {
+      "id": "pre-launch-updates",
+      "date": "2026-11-16",
+      "kind": "article",
+      "title": "Two updates before launch",
+      "title_fr": "Deux mises à jour avant la sortie",
+      "title_es": "Dos actualizaciones antes del lanzamiento",
+      "summary": "Pre-loaded copies received update 1.002 on November 13 (about 1 GB on PS5, 2.2 GB on Xbox), then 01.002.001 on November 16 (about 600 MB on PS5, 1.6 GB on Xbox). Rockstar hasn't published patch notes for either.",
+      "summary_fr": "Les copies préchargées ont reçu la mise à jour 1.002 le 13 novembre (environ 1 Go sur PS5, 2,2 Go sur Xbox), puis la 01.002.001 le 16 novembre (environ 600 Mo sur PS5, 1,6 Go sur Xbox). Rockstar n'a publié de notes pour aucune des deux.",
+      "summary_es": "Las copias precargadas recibieron la actualización 1.002 el 13 de noviembre (cerca de 1 GB en PS5 y 2,2 GB en Xbox) y la 01.002.001 el 16 de noviembre (unos 600 MB en PS5 y 1,6 GB en Xbox). Rockstar no ha publicado notas de ninguna de las dos.",
+      "source": "VICE",
+      "url": "https://www.vice.com/en/article/gta-6-second-day-one-patch-ps5-xbox/",
+      "source_fr": "GTA 6 France",
+      "url_fr": "https://gta6france.fr/gta-6-deuxieme-mise-a-jour-01002001-602-mo-ps5-xbox",
+      "source_es": "Yahoo Noticias",
+      "url_es": "https://es-us.noticias.yahoo.com/d%C3%ADas-estreno-gta-6-recibe-143831320.html"
+    },
+    {
+      "id": "preload-live",
+      "date": "2026-11-10",
+      "kind": "article",
+      "title": "Pre-load is open: 30 fps on every console",
+      "title_fr": "Le préchargement est ouvert : 30 fps sur toutes les consoles",
+      "title_es": "La precarga ya está abierta: 30 fps en todas las consolas",
+      "summary": "Digital pre-orders can now download the game ahead of launch. Rockstar confirms a 30 fps target on PS5 and Xbox Series X|S, with sharper image reconstruction and ray-traced shadows on PS5 Pro.",
+      "summary_fr": "Les précommandes numériques peuvent télécharger le jeu dès maintenant. Rockstar confirme viser 30 fps sur PS5 et Xbox Series X|S, avec une image plus fine et des ombres en ray tracing sur PS5 Pro.",
+      "summary_es": "Las reservas digitales ya pueden descargar el juego antes del lanzamiento. Rockstar confirma 30 fps en PS5 y Xbox Series X|S, con mejor imagen y sombras con trazado de rayos en PS5 Pro.",
+      "source": "Rockstar Games",
+      "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+      "source_fr": "La Vision du Gamer",
+      "url_fr": "https://www.lavisiondungamer.fr/prechargement-gta-6/",
+      "source_es": "El Diario de Madrid",
+      "url_es": "https://www.eldiariodemadrid.es/articulo/sociedad/gta-6-precarga-ps5-xbox-como-descargar-fecha-lanzamiento/20261110124901146506.html"
+    },
+    {
+      "id": "preorder-record",
+      "date": "2026-11-10",
+      "kind": "article",
+      "title": "The most pre-ordered game in PlayStation and Xbox history",
+      "title_fr": "Le jeu le plus précommandé de l'histoire de PlayStation et Xbox",
+      "title_es": "El juego más reservado de la historia de PlayStation y Xbox",
+      "summary": "Sony and Microsoft both say no game has ever been pre-ordered this much on their stores. Rockstar has not shared an exact number.",
+      "summary_fr": "Sony et Microsoft affirment qu'aucun jeu n'a jamais été autant précommandé sur leurs boutiques. Rockstar n'a pas donné de chiffre précis.",
+      "summary_es": "Sony y Microsoft aseguran que ningún juego se había reservado tanto en sus tiendas. Rockstar no ha dado una cifra exacta.",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/gta-6-is-the-most-preordered-game-of-all-time-for-playstation-and-xbox/",
+      "source_fr": "Journal du Geek",
+      "url_fr": "https://www.journaldugeek.com/2026/11/10/gta-6-devient-le-jeu-le-plus-precommande-de-lhistoire/",
+      "source_es": "3DJuegos",
+      "url_es": "https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/gta-6-todavia-no-ha-salido-ha-hecho-historia-playstation-xbox"
+    },
+    {
+      "id": "festival-miami",
+      "date": "2026-11-09",
+      "kind": "article",
+      "title": "A GTA VI festival in Miami on November 21",
+      "title_fr": "Un festival GTA VI à Miami le 21 novembre",
+      "title_es": "Un festival de GTA VI en Miami el 21 de noviembre",
+      "summary": "Rockstar and PlayStation are throwing a one-day music festival to celebrate the launch, with Travis Scott, Cardi B and Justice among the artists from the soundtrack.",
+      "summary_fr": "Rockstar et PlayStation organisent un festival de musique d'un jour pour fêter la sortie, avec notamment Travis Scott, Cardi B et Justice, des artistes de la bande-son.",
+      "summary_es": "Rockstar y PlayStation organizan un festival de música de un día para celebrar el lanzamiento, con Travis Scott, Cardi B y Justice, entre otros artistas de la banda sonora.",
+      "source": "Rockstar Games",
+      "url": "https://www.rockstargames.com/newswire/article/o39o87a435a25a/grand-theft-auto-vi-the-festival",
+      "source_fr": "GAMES.GG",
+      "url_fr": "https://games.gg/fr/news/miami-accueillera-le-festival-musical-gta-6-de-rockstar-le-21-novembre/",
+      "source_es": "CNN en Español",
+      "url_es": "https://cnnespanol.cnn.com/2026/11/09/entretenimiento/grand-theft-auto-vi-festival-miami-travis-cardi-ca7riel-orix"
+    },
+    {
+      "id": "take-two-confirms-date",
+      "date": "2026-11-09",
+      "kind": "article",
+      "title": "Take-Two locks in November 19",
+      "title_fr": "Take-Two confirme le 19 novembre",
+      "title_es": "Take-Two confirma el 19 de noviembre",
+      "summary": "In its latest results, Rockstar's parent company says the launch is ten days away and that pre-orders are at unprecedented levels. No more delays in sight.",
+      "summary_fr": "Dans ses derniers résultats, la maison mère de Rockstar annonce une sortie dans dix jours et des précommandes à un niveau jamais vu. Plus aucun report en vue.",
+      "summary_es": "En sus últimos resultados, la empresa matriz de Rockstar confirma el lanzamiento en diez días y unas reservas sin precedentes. Ya no hay retrasos a la vista.",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/cards/take-two-interactive-q2-2027-earnings-ttwo-01m712jtt7dtqmd3g0kxygyrkz",
+      "source_fr": "Boursorama",
+      "url_fr": "https://www.boursorama.com/bourse/actualites/des-perspectives-solides-pour-gta-vi-font-bondir-take-two-2ebfdd378912f2a482ac713436da25de",
+      "source_es": "MarketScreener",
+      "url_es": "https://es.marketscreener.com/noticias/las-s-lidas-perspectivas-para-gta-vi-disparan-a-take-two-ce785edadf8cf320"
+    },
+    {
+      "id": "preload-date-size",
+      "date": "2026-11-03",
+      "kind": "article",
+      "title": "Make room: up to 212 GB",
+      "title_fr": "Faites de la place : jusqu’à 212 Go",
+      "title_es": "Haz espacio: hasta 212 GB",
+      "summary": "Rockstar announced that pre-load starts on November 10 and that the game needs up to 212 GB of free space. Check your console storage now.",
+      "summary_fr": "Rockstar a annoncé l'ouverture du préchargement le 10 novembre et un besoin de jusqu'à 212 Go d'espace libre. Vérifiez dès maintenant le stockage de votre console.",
+      "summary_es": "Rockstar anunció que la precarga empieza el 10 de noviembre y que el juego necesita hasta 212 GB libres. Revisa ya el almacenamiento de tu consola.",
+      "source": "gHacks",
+      "url": "https://www.ghacks.net/2026/11/04/rockstar-confirms-gta-6-preload-starts-november-10-with-a-download-of-up-to-212-gb/",
+      "source_fr": "GTA 6 France",
+      "url_fr": "https://gta6france.fr/prechargement-gta-6",
+      "source_es": "ElDesmarque",
+      "url_es": "https://www.eldesmarque.com/videojuegos/20261103/gta-6-confirma-detalles-precarga-10-noviembre-212-gb_18_020607692.html"
+    },
+    {
+      "id": "soundtrack-first-tracks",
+      "date": "2026-11-03",
+      "kind": "article",
+      "title": "First soundtrack tracks confirmed",
+      "title_fr": "Premiers titres de la bande-son confirmés",
+      "summary": "Rockstar has named part of the music you will hear on the radio, from Travis Scott to Morgan Wallen and Justice. The full list is in the Music section of the guide.",
+      "summary_fr": "Rockstar a dévoilé une partie des morceaux qui passeront à la radio, de Travis Scott à Morgan Wallen en passant par Justice. La liste est dans la section Musique du guide.",
+      "source": "Rockstar Games",
+      "url": "https://www.rockstargames.com/VI",
+      "title_es": "Primeras canciones de la banda sonora confirmadas",
+      "summary_es": "Rockstar ha revelado parte de la música que sonará en la radio, de Travis Scott a Morgan Wallen pasando por Justice. La lista completa está en la sección Música de la guía."
+    },
+    {
+      "id": "justice-original-score",
+      "date": "2026-10-29",
+      "kind": "article",
+      "title": "Justice's original score out on December 11",
+      "title_fr": "La bande originale de Justice sort le 11 décembre",
+      "title_es": "La banda sonora original de Justice sale el 11 de diciembre",
+      "summary": "The French duo composed the score of the game. A 30-track album will be released on December 11, separate from the licensed songs you hear on the radio.",
+      "summary_fr": "Le duo français a composé la musique originale du jeu. Un album de 30 titres sortira le 11 décembre, à part des chansons qui passent à la radio.",
+      "summary_es": "El dúo francés compuso la música original del juego. Un álbum de 30 temas saldrá el 11 de diciembre, aparte de las canciones de la radio.",
+      "source": "Complex",
+      "url": "https://www.complex.com/music/a/tracewilliamcowen/grand-theft-auto-vi-justice-gesaffelstein",
+      "source_fr": "Xboxygen",
+      "url_fr": "https://www.xboxygen.com/?p=372483",
+      "source_es": "Instant Gaming News",
+      "url_es": "https://news.instant-gaming.com/es/articulos/22755-la-banda-sonora-de-gta-vi-estara-disponible-a-partir-del-11-de-diciembre"
+    },
+    {
+      "id": "launch-trailer",
+      "date": "2026-10-15",
+      "kind": "video",
+      "title": "The launch trailer is out",
+      "title_fr": "Le trailer de lancement est sorti",
+      "title_es": "Ya está aquí el tráiler de lanzamiento",
+      "summary": "The last trailer before release, set to \"Flower in a Hurricane\", a new track by Justice with Tame Impala, SZA and King Gizzard & The Lizard Wizard.",
+      "summary_fr": "Le dernier trailer avant la sortie, sur « Flower in a Hurricane », un nouveau titre de Justice avec Tame Impala, SZA et King Gizzard & The Lizard Wizard.",
+      "summary_es": "El último tráiler antes del lanzamiento, con \"Flower in a Hurricane\", un nuevo tema de Justice con Tame Impala, SZA y King Gizzard & The Lizard Wizard.",
+      "source": "Rockstar Games",
+      "url": "https://www.rockstargames.com/videos/76orsa95"
+    },
+    {
+      "id": "no-more-delay",
+      "date": "2026-05-21",
+      "kind": "article",
+      "title": "Take-Two rules out another delay",
+      "title_fr": "Take-Two écarte un nouveau report",
+      "title_es": "Take-Two descarta un nuevo retraso",
+      "summary": "Take-Two's boss confirmed November 19 during the company's spring results and shut down the rumours of a move to 2027.",
+      "summary_fr": "Le patron de Take-Two a confirmé le 19 novembre lors des résultats du printemps et fait taire les rumeurs de report à 2027.",
+      "summary_es": "El jefe de Take-Two confirmó el 19 de noviembre durante los resultados de primavera y acabó con los rumores de retraso a 2027.",
+      "source": "The Shortcut",
+      "url": "https://www.theshortcut.com/p/gta-6-release-date-delay-update",
+      "source_fr": "WeArePlayStation",
+      "url_fr": "https://www.weareplaystation.fr/communautes/gta-vi/actualites-communaute/la-date-de-sortie-de-gta-6-en-novembre-2026-est-maintenue-selon-le-patron-de-take-two-qui-dissipe-ainsi-les-craintes-de-retard",
+      "source_es": "Tus Buenas Noticias",
+      "url_es": "https://www.tusbuenasnoticias.com/noticias/buenas-noticias/2026/05/24/60308-no-mas-retrasos-para-gta-6-se-confirma-fecha-de-lanzamiento"
+    },
+    {
+      "id": "delayed-to-november",
+      "date": "2025-11-06",
+      "kind": "article",
+      "title": "Release moved to November 19, 2026",
+      "title_fr": "Sortie repoussée au 19 novembre 2026",
+      "title_es": "Lanzamiento retrasado al 19 de noviembre de 2026",
+      "summary": "Rockstar pushed the game back one last time to polish it, apologising to fans. The date has not moved since.",
+      "summary_fr": "Rockstar a repoussé le jeu une dernière fois pour le peaufiner, en s'excusant auprès des fans. La date n'a plus bougé depuis.",
+      "summary_es": "Rockstar retrasó el juego una última vez para pulirlo y pidió disculpas a los fans. La fecha no se ha movido desde entonces.",
+      "source": "Rockstar Games",
+      "url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026",
+      "source_fr": "Breakflip",
+      "url_fr": "https://www.breakflip.com/actualites/gta-6/gta-6-repousse-a-novembre-2026-rockstar-annonce-un-nouveau-report-et-une-nouvelle-date-69968",
+      "source_es": "Euronews",
+      "url_es": "https://es.euronews.com/2025/11/07/se-necesita-mas-tiempo-grand-theft-auto-6-vuelve-a-retrasarse-rockstar-games-enfada-a-los"
+    }
+  ]
 }
