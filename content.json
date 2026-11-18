@@ -1,44 +1,8 @@
 {
-  "version": 5,
+  "version": 6,
   "guide": {
     "entries": {
       "characters": [
-        {
-          "id": "jason-duval",
-          "name": "Jason Duval",
-          "aliases": [
-            "Jason"
-          ],
-          "image": "characters/jason-duval.jpg",
-          "summary": "The other playable lead. He only wants an easy life, and keeps getting the opposite.",
-          "summary_fr": "L'autre héros jouable. Il ne demande qu'une vie tranquille, et récolte toujours l'inverse.",
-          "summary_es": "El otro protagonista jugable. Solo quiere una vida tranquila, y siempre obtiene lo contrario.",
-          "fields": {
-            "role": "Protagonist",
-            "role_fr": "Héros jouable",
-            "role_es": "Protagonista",
-            "affiliation": "Lucia Caminos, Cal Hampton, Brian Heder, Dre'Quan Priest",
-            "affiliation_fr": "Lucia Caminos, Cal Hampton, Brian Heder, Dre'Quan Priest",
-            "affiliation_es": "Lucia Caminos, Cal Hampton, Brian Heder, Dre'Quan Priest",
-            "occupation": "Drug runner, ex-soldier",
-            "occupation_fr": "Trafic de drogue, ancien militaire",
-            "occupation_es": "Narcotraficante, exsoldado",
-            "home": "Key Lento, Leonida Keys",
-            "home_fr": "Key Lento, Leonida Keys",
-            "home_es": "Key Lento, Leonida Keys",
-            "vehicle": "Turquoise Creado, red Tulip",
-            "vehicle_fr": "Creado turquoise, Tulip rouge",
-            "vehicle_es": "Creado turquesa, Tulip rojo"
-          },
-          "sections": {
-            "personality": "Jason grew up around grifters and crooks. He just wants an easy life, but things keep getting harder. Rockstar describes him as the \"brake\" of the duo, with Lucia as the \"engine\": the two push and pull each other throughout the story.",
-            "personality_fr": "Jason a grandi entouré d'arnaqueurs et de voyous. Il ne demande qu'une vie tranquille, mais tout se complique sans cesse. Rockstar le décrit comme le « frein » du duo, et Lucia comme le « moteur » : l'un pousse, l'autre retient, tout au long de l'histoire.",
-            "personality_es": "Jason creció rodeado de estafadores y maleantes. Solo quiere una vida tranquila, pero todo se complica cada vez más. Rockstar lo describe como el \"freno\" del dúo y a Lucia como el \"motor\": se empujan y se frenan el uno al otro durante toda la historia.",
-            "story": "After a stint in the Army trying to shake off his troubled teens, Jason ended up in the Leonida Keys, working for local drug runners. Brian Heder, a veteran of the Keys' drug trade, lets him live rent-free in one of his properties in Key Lento, in exchange for help with local shakedowns.\n\nMeeting Lucia Caminos could be the best or the worst thing that ever happened to him. Together, they get caught up in a criminal conspiracy that spans the whole state of Leonida.\n\nYou can switch between Jason and Lucia, and the player decides whether their relationship stays platonic or turns romantic. The duo is often compared to Bonnie and Clyde: the game's November 19 release date matches the reported date of their first bank robbery, in 1932.",
-            "story_fr": "Après un passage par l'armée pour tourner la page d'une adolescence difficile, Jason a échoué dans les Leonida Keys, où il travaille pour des trafiquants locaux. Brian Heder, vétéran du trafic dans les Keys, le loge gratuitement dans un de ses logements à Key Lento, en échange d'un coup de main pour des intimidations dans le coin.\n\nSa rencontre avec Lucia Caminos pourrait être la meilleure ou la pire chose qui lui soit arrivée. Ensemble, ils se retrouvent pris dans une conspiration criminelle qui s'étend à tout l'État de Leonida.\n\nOn peut passer de Jason à Lucia, et c'est le joueur qui décide si leur relation reste amicale ou devient amoureuse. Le duo est souvent comparé à Bonnie et Clyde : la date de sortie du jeu, le 19 novembre, correspond à celle de leur premier braquage de banque, en 1932.",
-            "story_es": "Tras pasar por el ejército para dejar atrás una adolescencia complicada, Jason acabó en los Leonida Keys, trabajando para narcos locales. Brian Heder, veterano del tráfico en los Keys, le deja vivir gratis en una de sus propiedades en Key Lento a cambio de ayudarle con extorsiones locales.\n\nConocer a Lucia Caminos podría ser lo mejor o lo peor que le ha pasado. Juntos acaban metidos en una conspiración criminal que abarca todo el estado de Leonida.\n\nSe puede cambiar entre Jason y Lucia, y el jugador decide si su relación es de amistad o romántica. El dúo se compara a menudo con Bonnie y Clyde: la fecha de lanzamiento, el 19 de noviembre, coincide con la de su primer atraco a un banco, en 1932."
-          }
-        },
         {
           "id": "lucia-caminos",
           "name": "Lucia Caminos",
@@ -73,39 +37,39 @@
           }
         },
         {
-          "id": "drequan-priest",
-          "name": "Dre'Quan Priest",
+          "id": "jason-duval",
+          "name": "Jason Duval",
           "aliases": [
-            "Dre'Quan"
+            "Jason"
           ],
-          "image": "characters/drequan-priest.jpg",
-          "summary": "An ambitious music producer chasing the next big hit.",
-          "summary_fr": "Un producteur ambitieux, à la recherche du prochain tube.",
-          "summary_es": "Un productor ambicioso en busca del próximo gran éxito.",
+          "image": "characters/jason-duval.jpg",
+          "summary": "The other playable lead. He only wants an easy life, and keeps getting the opposite.",
+          "summary_fr": "L'autre héros jouable. Il ne demande qu'une vie tranquille, et récolte toujours l'inverse.",
+          "summary_es": "El otro protagonista jugable. Solo quiere una vida tranquila, y siempre obtiene lo contrario.",
           "fields": {
-            "role": "Supporting character",
-            "role_fr": "Personnage secondaire",
-            "role_es": "Personaje secundario",
-            "affiliation": "Real Dimez, Boobie Ike, Lucia Caminos, Jason Duval",
-            "affiliation_fr": "Real Dimez, Boobie Ike, Lucia Caminos, Jason Duval",
-            "affiliation_es": "Real Dimez, Boobie Ike, Lucia Caminos, Jason Duval",
-            "age": "Born in 1998 (about 28)",
-            "age_fr": "Né en 1998 (environ 28 ans)",
-            "age_es": "Nacido en 1998 (unos 28 años)",
-            "occupation": "Record label manager (Only Raw Records)",
-            "occupation_fr": "Patron de label (Only Raw Records)",
-            "occupation_es": "Director de sello (Only Raw Records)",
-            "home": "Leonida",
-            "home_fr": "Leonida",
-            "home_es": "Leonida"
+            "role": "Protagonist",
+            "role_fr": "Héros jouable",
+            "role_es": "Protagonista",
+            "affiliation": "Lucia Caminos, Cal Hampton, Brian Heder, Dre'Quan Priest",
+            "affiliation_fr": "Lucia Caminos, Cal Hampton, Brian Heder, Dre'Quan Priest",
+            "affiliation_es": "Lucia Caminos, Cal Hampton, Brian Heder, Dre'Quan Priest",
+            "occupation": "Drug runner, ex-soldier",
+            "occupation_fr": "Trafic de drogue, ancien militaire",
+            "occupation_es": "Narcotraficante, exsoldado",
+            "home": "Key Lento, Leonida Keys",
+            "home_fr": "Key Lento, Leonida Keys",
+            "home_es": "Key Lento, Leonida Keys",
+            "vehicle": "Turquoise Creado, red Tulip",
+            "vehicle_fr": "Creado turquoise, Tulip rouge",
+            "vehicle_es": "Creado turquesa, Tulip rojo"
           },
           "sections": {
-            "personality": "Born in 1998, Dre'Quan was always more of a hustler than a gangster. Even when he was dealing on the streets to make ends meet, breaking into music was the goal.",
-            "personality_fr": "Né en 1998, Dre'Quan a toujours été plus débrouillard que gangster. Même quand il dealait dans la rue pour joindre les deux bouts, son but restait de percer dans la musique.",
-            "personality_es": "Nacido en 1998, Dre'Quan siempre fue más buscavidas que gánster. Incluso cuando vendía en la calle para llegar a fin de mes, su meta era triunfar en la música.",
-            "story": "Dre'Quan runs the Only Raw Records label. Now that he's signed Real Dimez, his days of booking acts into Boobie Ike's strip club might be numbered: he's setting his sights on the Vice City scene.",
-            "story_fr": "Dre'Quan dirige le label Only Raw Records. Maintenant qu'il a signé Real Dimez, ses jours à programmer des artistes au strip-club de Boobie Ike sont peut-être comptés : il vise désormais la scène de Vice City.",
-            "story_es": "Dre'Quan dirige el sello Only Raw Records. Ahora que ha fichado a Real Dimez, sus días programando artistas en el club de striptease de Boobie Ike podrían estar contados: tiene la vista puesta en la escena de Vice City."
+            "personality": "Jason grew up around grifters and crooks. He just wants an easy life, but things keep getting harder. Rockstar describes him as the \"brake\" of the duo, with Lucia as the \"engine\": the two push and pull each other throughout the story.",
+            "personality_fr": "Jason a grandi entouré d'arnaqueurs et de voyous. Il ne demande qu'une vie tranquille, mais tout se complique sans cesse. Rockstar le décrit comme le « frein » du duo, et Lucia comme le « moteur » : l'un pousse, l'autre retient, tout au long de l'histoire.",
+            "personality_es": "Jason creció rodeado de estafadores y maleantes. Solo quiere una vida tranquila, pero todo se complica cada vez más. Rockstar lo describe como el \"freno\" del dúo y a Lucia como el \"motor\": se empujan y se frenan el uno al otro durante toda la historia.",
+            "story": "After a stint in the Army trying to shake off his troubled teens, Jason ended up in the Leonida Keys, working for local drug runners. Brian Heder, a veteran of the Keys' drug trade, lets him live rent-free in one of his properties in Key Lento, in exchange for help with local shakedowns.\n\nMeeting Lucia Caminos could be the best or the worst thing that ever happened to him. Together, they get caught up in a criminal conspiracy that spans the whole state of Leonida.\n\nYou can switch between Jason and Lucia, and the player decides whether their relationship stays platonic or turns romantic. The duo is often compared to Bonnie and Clyde: the game's November 19 release date matches the reported date of their first bank robbery, in 1932.",
+            "story_fr": "Après un passage par l'armée pour tourner la page d'une adolescence difficile, Jason a échoué dans les Leonida Keys, où il travaille pour des trafiquants locaux. Brian Heder, vétéran du trafic dans les Keys, le loge gratuitement dans un de ses logements à Key Lento, en échange d'un coup de main pour des intimidations dans le coin.\n\nSa rencontre avec Lucia Caminos pourrait être la meilleure ou la pire chose qui lui soit arrivée. Ensemble, ils se retrouvent pris dans une conspiration criminelle qui s'étend à tout l'État de Leonida.\n\nOn peut passer de Jason à Lucia, et c'est le joueur qui décide si leur relation reste amicale ou devient amoureuse. Le duo est souvent comparé à Bonnie et Clyde : la date de sortie du jeu, le 19 novembre, correspond à celle de leur premier braquage de banque, en 1932.",
+            "story_es": "Tras pasar por el ejército para dejar atrás una adolescencia complicada, Jason acabó en los Leonida Keys, trabajando para narcos locales. Brian Heder, veterano del tráfico en los Keys, le deja vivir gratis en una de sus propiedades en Key Lento a cambio de ayudarle con extorsiones locales.\n\nConocer a Lucia Caminos podría ser lo mejor o lo peor que le ha pasado. Juntos acaban metidos en una conspiración criminal que abarca todo el estado de Leonida.\n\nSe puede cambiar entre Jason y Lucia, y el jugador decide si su relación es de amistad o romántica. El dúo se compara a menudo con Bonnie y Clyde: la fecha de lanzamiento, el 19 de noviembre, coincide con la de su primer atraco a un banco, en 1932."
           }
         },
         {
@@ -145,6 +109,111 @@
           }
         },
         {
+          "id": "cal-hampton",
+          "name": "Cal Hampton",
+          "aliases": [
+            "Cal"
+          ],
+          "image": "characters/cal-hampton.jpg",
+          "summary": "Jason's friend. A homebody with a theory for everything.",
+          "summary_fr": "L'ami de Jason. Un casanier qui a une théorie sur tout.",
+          "summary_es": "El amigo de Jason. Un hogareño con una teoría para todo.",
+          "fields": {
+            "role": "Supporting character",
+            "role_fr": "Personnage secondaire",
+            "role_es": "Personaje secundario",
+            "affiliation": "Friend of Jason, works with Brian Heder",
+            "affiliation_fr": "Ami de Jason, travaille avec Brian Heder",
+            "affiliation_es": "Amigo de Jason, trabaja con Brian Heder"
+          },
+          "sections": {
+            "story": "Suspicious of everyone and happiest at home, Cal likes nothing better than a few beers and the Coast Guard radio chatter in the background.",
+            "story_fr": "Méfiant envers tout le monde et heureux surtout chez lui, Cal n'aime rien tant que quelques bières avec les échanges radio des garde-côtes en fond sonore.",
+            "story_es": "Desconfiado con todo el mundo y feliz sobre todo en casa, a Cal nada le gusta más que unas cervezas con la radio de la Guardia Costera de fondo."
+          }
+        },
+        {
+          "id": "boobie-ike",
+          "name": "Boobie Ike",
+          "aliases": [
+            "Boobie"
+          ],
+          "image": "characters/boobie-ike.jpg",
+          "summary": "A Vice City local legend who turned street money into a business empire.",
+          "summary_fr": "Une figure de Vice City qui a transformé l'argent de la rue en petit empire.",
+          "summary_es": "Una leyenda local de Vice City que convirtió el dinero de la calle en un imperio.",
+          "fields": {
+            "role": "Supporting character",
+            "role_fr": "Personnage secondaire",
+            "role_es": "Personaje secundario",
+            "affiliation": "Co-runs Only Raw Records",
+            "affiliation_fr": "Codirige Only Raw Records",
+            "affiliation_es": "Codirige Only Raw Records"
+          },
+          "sections": {
+            "story": "Boobie made his name on the streets, then went legit — or close to it: real estate, a strip club and a recording studio. He runs the Only Raw Records label with Dre'Quan Priest.",
+            "story_fr": "Boobie s'est fait un nom dans la rue, puis s'est rangé, ou presque : immobilier, club de strip-tease et studio d'enregistrement. Il dirige le label Only Raw Records avec Dre'Quan Priest.",
+            "story_es": "Boobie se hizo un nombre en la calle y luego se volvió legal, o casi: bienes raíces, un club de striptease y un estudio de grabación. Dirige el sello Only Raw Records con Dre'Quan Priest."
+          }
+        },
+        {
+          "id": "drequan-priest",
+          "name": "Dre'Quan Priest",
+          "aliases": [
+            "Dre'Quan"
+          ],
+          "image": "characters/drequan-priest.jpg",
+          "summary": "An ambitious music producer chasing the next big hit.",
+          "summary_fr": "Un producteur ambitieux, à la recherche du prochain tube.",
+          "summary_es": "Un productor ambicioso en busca del próximo gran éxito.",
+          "fields": {
+            "role": "Supporting character",
+            "role_fr": "Personnage secondaire",
+            "role_es": "Personaje secundario",
+            "affiliation": "Real Dimez, Boobie Ike, Lucia Caminos, Jason Duval",
+            "affiliation_fr": "Real Dimez, Boobie Ike, Lucia Caminos, Jason Duval",
+            "affiliation_es": "Real Dimez, Boobie Ike, Lucia Caminos, Jason Duval",
+            "age": "Born in 1998 (about 28)",
+            "age_fr": "Né en 1998 (environ 28 ans)",
+            "age_es": "Nacido en 1998 (unos 28 años)",
+            "occupation": "Record label manager (Only Raw Records)",
+            "occupation_fr": "Patron de label (Only Raw Records)",
+            "occupation_es": "Director de sello (Only Raw Records)",
+            "home": "Leonida",
+            "home_fr": "Leonida",
+            "home_es": "Leonida"
+          },
+          "sections": {
+            "personality": "Born in 1998, Dre'Quan was always more of a hustler than a gangster. Even when he was dealing on the streets to make ends meet, breaking into music was the goal.",
+            "personality_fr": "Né en 1998, Dre'Quan a toujours été plus débrouillard que gangster. Même quand il dealait dans la rue pour joindre les deux bouts, son but restait de percer dans la musique.",
+            "personality_es": "Nacido en 1998, Dre'Quan siempre fue más buscavidas que gánster. Incluso cuando vendía en la calle para llegar a fin de mes, su meta era triunfar en la música.",
+            "story": "Dre'Quan runs the Only Raw Records label. Now that he's signed Real Dimez, his days of booking acts into Boobie Ike's strip club might be numbered: he's setting his sights on the Vice City scene.",
+            "story_fr": "Dre'Quan dirige le label Only Raw Records. Maintenant qu'il a signé Real Dimez, ses jours à programmer des artistes au strip-club de Boobie Ike sont peut-être comptés : il vise désormais la scène de Vice City.",
+            "story_es": "Dre'Quan dirige el sello Only Raw Records. Ahora que ha fichado a Real Dimez, sus días programando artistas en el club de striptease de Boobie Ike podrían estar contados: tiene la vista puesta en la escena de Vice City."
+          }
+        },
+        {
+          "id": "real-dimez",
+          "name": "Real Dimez",
+          "image": "characters/real-dimez.jpg",
+          "summary": "A rap duo of best friends, Bae-Luxe and Roxy, who blew up online.",
+          "summary_fr": "Un duo de rap, Bae-Luxe et Roxy, deux meilleures amies devenues virales.",
+          "summary_es": "Un dúo de rap de mejores amigas, Bae-Luxe y Roxy, que se hizo viral.",
+          "fields": {
+            "role": "Supporting characters",
+            "role_fr": "Personnages secondaires",
+            "role_es": "Personajes secundarios",
+            "affiliation": "Signed to Only Raw Records",
+            "affiliation_fr": "Signées chez Only Raw Records",
+            "affiliation_es": "Firmadas con Only Raw Records"
+          },
+          "sections": {
+            "story": "Bae-Luxe and Roxy grew up together and made it as Real Dimez, a duo whose tracks went viral. They're signed to Only Raw Records.",
+            "story_fr": "Bae-Luxe et Roxy ont grandi ensemble et ont percé sous le nom de Real Dimez, un duo dont les morceaux ont fait le buzz. Elles sont signées chez Only Raw Records.",
+            "story_es": "Bae-Luxe y Roxy crecieron juntas y triunfaron como Real Dimez, un dúo cuyas canciones se hicieron virales. Están firmadas con Only Raw Records."
+          }
+        },
+        {
           "id": "raul-bautista",
           "name": "Raul Bautista",
           "aliases": [
@@ -169,57 +238,6 @@
             "story": "Raul acts as an older mentor to Jason Duval and Lucia Caminos when they arrive in Vice City. He introduces them to the large-scale heists and criminal operations that become part of their story.\n\nIn the Extended Look, Jason and Lucia pick him up while he is running from the police and help him get away. Before leaving, he tells them to keep their phone on: a sign that they are now part of his crew.",
             "story_fr": "Raul joue les mentors pour Jason Duval et Lucia Caminos à leur arrivée à Vice City. C'est lui qui les fait entrer dans les gros braquages et les opérations criminelles qui marquent leur histoire.\n\nDans l'Extended Look, Jason et Lucia le récupèrent alors qu'il fuit la police et l'aident à s'échapper. Avant de partir, il leur dit de garder leur téléphone allumé : le signe qu'ils font désormais partie de son équipe.",
             "story_es": "Raul hace de mentor de Jason Duval y Lucia Caminos cuando llegan a Vice City. Es quien los introduce en los grandes golpes y las operaciones criminales que marcan su historia.\n\nEn el Extended Look, Jason y Lucia lo recogen mientras huye de la policía y lo ayudan a escapar. Antes de irse, les pide que dejen el teléfono encendido: señal de que ya forman parte de su banda."
-          }
-        },
-        {
-          "id": "petra-navarro",
-          "name": "Petra Navarro",
-          "aliases": [
-            "Petra"
-          ],
-          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/characters/petra-navarro.jpg",
-          "summary": "Chief Operating Officer of Megamundo.",
-          "summary_fr": "Directrice des opérations de Megamundo.",
-          "summary_es": "Directora de operaciones de Megamundo.",
-          "fields": {
-            "role": "Supporting character",
-            "role_fr": "Personnage secondaire",
-            "role_es": "Personaje secundario",
-            "affiliation": "Megamundo (COO)",
-            "affiliation_fr": "Megamundo (directrice des opérations)",
-            "affiliation_es": "Megamundo (directora de operaciones)"
-          },
-          "sections": {
-            "story": "Jason Duval and Lucia Caminos are hired as private security by Megamundo. Petra is in the lobby when the pair bring Andrés de León to the building after his flight.\n\nJason, Lucia, Valentina and Andrés then attend the party celebrating the opening of Megamundo's first corporate headquarters in the United States. Petra is later seen being escorted out of the event after a shooting breaks out.",
-            "story_fr": "Jason Duval et Lucia Caminos sont engagés comme agents de sécurité privés par Megamundo. Petra se trouve dans le hall quand le duo amène Andrés de León au siège après son vol.\n\nJason, Lucia, Valentina et Andrés assistent ensuite à la soirée d'inauguration du premier siège de Megamundo aux États-Unis. Petra est plus tard évacuée de la soirée, escortée, après une fusillade.",
-            "story_es": "Jason Duval y Lucia Caminos son contratados como seguridad privada por Megamundo. Petra está en el vestíbulo cuando la pareja lleva a Andrés de León al edificio tras su vuelo.\n\nJason, Lucia, Valentina y Andrés asisten después a la fiesta de inauguración de la primera sede corporativa de Megamundo en Estados Unidos. Más tarde, Petra es escoltada fuera del evento tras un tiroteo."
-          }
-        },
-        {
-          "id": "mendez",
-          "name": "Méndez",
-          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/characters/mendez.jpg",
-          "summary": "A Vice City cop who seems to know exactly who Jason and Lucia are.",
-          "summary_fr": "Un flic de Vice City qui semble savoir exactement qui sont Jason et Lucia.",
-          "summary_es": "Un policía de Vice City que parece saber muy bien quiénes son Jason y Lucia.",
-          "fields": {
-            "role": "Supporting character",
-            "role_fr": "Personnage secondaire",
-            "role_es": "Personaje secundario",
-            "affiliation": "Vice City Police Department",
-            "affiliation_fr": "Vice City Police Department",
-            "affiliation_es": "Vice City Police Department",
-            "occupation": "Police officer",
-            "occupation_fr": "Policier",
-            "occupation_es": "Policía",
-            "home": "Vice City",
-            "home_fr": "Vice City",
-            "home_es": "Vice City"
-          },
-          "sections": {
-            "story": "Méndez is an officer of the Vice City Police Department. He first appears in the second trailer, during a police operation, telling other officers that cops have to protect each other.\n\nIn the Extended Look, he takes part in a raid on a drug operation at the very moment Jason and Lucia are there to collect a shipment, leading to a shootout inside the building. As they escape in an elevator, the pair wonder whether he knows who they are. Méndez is seen shooting one of the armed occupants and giving orders, then turns toward Jason and Lucia just as the doors close.",
-            "story_fr": "Méndez est un agent du Vice City Police Department. Il apparaît d'abord dans la deuxième bande-annonce, pendant une opération de police, où il rappelle aux autres agents que les flics doivent se serrer les coudes.\n\nDans l'Extended Look, il participe à une descente sur un trafic de drogue au moment précis où Jason et Lucia viennent récupérer une livraison, ce qui déclenche une fusillade dans l'immeuble. En fuyant par l'ascenseur, le duo se demande s'il sait qui ils sont. On voit Méndez abattre un des occupants armés et donner des ordres, puis se tourner vers Jason et Lucia juste au moment où les portes se referment.",
-            "story_es": "Méndez es agente del Vice City Police Department. Aparece por primera vez en el segundo tráiler, durante una operación policial, recordando a otros agentes que los polis tienen que protegerse entre sí.\n\nEn el Extended Look, participa en una redada contra una operación de drogas justo cuando Jason y Lucia están allí para recoger un envío, lo que desata un tiroteo en el edificio. Al huir en un ascensor, la pareja se pregunta si sabe quiénes son. Méndez dispara a uno de los ocupantes armados y da órdenes, y se gira hacia Jason y Lucia justo cuando se cierran las puertas."
           }
         },
         {
@@ -280,6 +298,57 @@
             "story": "Bae-Luxe and Roxy have been friends since high school. As Real Dimez, they made money by shaking down local drug dealers and turning it into rap tracks and social media content.\n\nAn early single with local rapper DWNPLY brought the duo greater success. They later signed with Only Raw Records, hoping to land another hit. Her voice actress has not been officially revealed yet.",
             "story_fr": "Bae-Luxe et Roxy sont amies depuis le lycée. Sous le nom de Real Dimez, elles se sont fait de l'argent en rackettant les dealers du coin, pour en faire des morceaux de rap et du contenu pour les réseaux.\n\nUn premier single avec le rappeur local DWNPLY a fait décoller le duo. Elles ont ensuite signé chez Only Raw Records, avec l'espoir de décrocher un nouveau tube. Sa doubleuse n'a pas encore été dévoilée officiellement.",
             "story_es": "Bae-Luxe y Roxy son amigas desde el instituto. Como Real Dimez, ganaron dinero extorsionando a camellos locales y convirtiéndolo en temas de rap y contenido para redes.\n\nUn primer sencillo con el rapero local DWNPLY impulsó al dúo. Después firmaron con Only Raw Records, con la esperanza de lograr otro éxito. Su actriz de voz aún no se ha revelado oficialmente."
+          }
+        },
+        {
+          "id": "mendez",
+          "name": "Méndez",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/characters/mendez.jpg",
+          "summary": "A Vice City cop who seems to know exactly who Jason and Lucia are.",
+          "summary_fr": "Un flic de Vice City qui semble savoir exactement qui sont Jason et Lucia.",
+          "summary_es": "Un policía de Vice City que parece saber muy bien quiénes son Jason y Lucia.",
+          "fields": {
+            "role": "Supporting character",
+            "role_fr": "Personnage secondaire",
+            "role_es": "Personaje secundario",
+            "affiliation": "Vice City Police Department",
+            "affiliation_fr": "Vice City Police Department",
+            "affiliation_es": "Vice City Police Department",
+            "occupation": "Police officer",
+            "occupation_fr": "Policier",
+            "occupation_es": "Policía",
+            "home": "Vice City",
+            "home_fr": "Vice City",
+            "home_es": "Vice City"
+          },
+          "sections": {
+            "story": "Méndez is an officer of the Vice City Police Department. He first appears in the second trailer, during a police operation, telling other officers that cops have to protect each other.\n\nIn the Extended Look, he takes part in a raid on a drug operation at the very moment Jason and Lucia are there to collect a shipment, leading to a shootout inside the building. As they escape in an elevator, the pair wonder whether he knows who they are. Méndez is seen shooting one of the armed occupants and giving orders, then turns toward Jason and Lucia just as the doors close.",
+            "story_fr": "Méndez est un agent du Vice City Police Department. Il apparaît d'abord dans la deuxième bande-annonce, pendant une opération de police, où il rappelle aux autres agents que les flics doivent se serrer les coudes.\n\nDans l'Extended Look, il participe à une descente sur un trafic de drogue au moment précis où Jason et Lucia viennent récupérer une livraison, ce qui déclenche une fusillade dans l'immeuble. En fuyant par l'ascenseur, le duo se demande s'il sait qui ils sont. On voit Méndez abattre un des occupants armés et donner des ordres, puis se tourner vers Jason et Lucia juste au moment où les portes se referment.",
+            "story_es": "Méndez es agente del Vice City Police Department. Aparece por primera vez en el segundo tráiler, durante una operación policial, recordando a otros agentes que los polis tienen que protegerse entre sí.\n\nEn el Extended Look, participa en una redada contra una operación de drogas justo cuando Jason y Lucia están allí para recoger un envío, lo que desata un tiroteo en el edificio. Al huir en un ascensor, la pareja se pregunta si sabe quiénes son. Méndez dispara a uno de los ocupantes armados y da órdenes, y se gira hacia Jason y Lucia justo cuando se cierran las puertas."
+          }
+        },
+        {
+          "id": "petra-navarro",
+          "name": "Petra Navarro",
+          "aliases": [
+            "Petra"
+          ],
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/characters/petra-navarro.jpg",
+          "summary": "Chief Operating Officer of Megamundo.",
+          "summary_fr": "Directrice des opérations de Megamundo.",
+          "summary_es": "Directora de operaciones de Megamundo.",
+          "fields": {
+            "role": "Supporting character",
+            "role_fr": "Personnage secondaire",
+            "role_es": "Personaje secundario",
+            "affiliation": "Megamundo (COO)",
+            "affiliation_fr": "Megamundo (directrice des opérations)",
+            "affiliation_es": "Megamundo (directora de operaciones)"
+          },
+          "sections": {
+            "story": "Jason Duval and Lucia Caminos are hired as private security by Megamundo. Petra is in the lobby when the pair bring Andrés de León to the building after his flight.\n\nJason, Lucia, Valentina and Andrés then attend the party celebrating the opening of Megamundo's first corporate headquarters in the United States. Petra is later seen being escorted out of the event after a shooting breaks out.",
+            "story_fr": "Jason Duval et Lucia Caminos sont engagés comme agents de sécurité privés par Megamundo. Petra se trouve dans le hall quand le duo amène Andrés de León au siège après son vol.\n\nJason, Lucia, Valentina et Andrés assistent ensuite à la soirée d'inauguration du premier siège de Megamundo aux États-Unis. Petra est plus tard évacuée de la soirée, escortée, après une fusillade.",
+            "story_es": "Jason Duval y Lucia Caminos son contratados como seguridad privada por Megamundo. Petra está en el vestíbulo cuando la pareja lleva a Andrés de León al edificio tras su vuelo.\n\nJason, Lucia, Valentina y Andrés asisten después a la fiesta de inauguración de la primera sede corporativa de Megamundo en Estados Unidos. Más tarde, Petra es escoltada fuera del evento tras un tiroteo."
           }
         },
         {
