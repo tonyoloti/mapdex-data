@@ -1,3 +1,2714 @@
 {
-  "version": 1
+  "version": 2,
+  "guide": {
+    "entries": {
+      "characters": [
+        {
+          "id": "raul-bautista",
+          "name": "Raul Bautista",
+          "aliases": [
+            "Raul"
+          ],
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/characters/raul-bautista.jpg",
+          "summary": "A seasoned bank robber who takes Jason and Lucia under his wing in Vice City.",
+          "summary_fr": "Un braqueur chevronné qui prend Jason et Lucia sous son aile à Vice City.",
+          "summary_es": "Un ladrón experimentado que toma a Jason y Lucia bajo su protección en Vice City.",
+          "fields": {
+            "role": "Mentor",
+            "role_fr": "Mentor",
+            "role_es": "Mentor",
+            "affiliation": "Jason Duval and Lucia Caminos's crew",
+            "affiliation_fr": "Équipe de Jason Duval et Lucia Caminos",
+            "affiliation_es": "Banda de Jason Duval y Lucia Caminos"
+          },
+          "sections": {
+            "personality": "Confident and experienced, Raul has robbed his share of banks. He brings the criminal know-how that Jason and Lucia lack, and Rockstar designed him to embody Vice City and its local underworld.",
+            "personality_fr": "Sûr de lui et expérimenté, Raul a braqué son lot de banques. Il apporte le savoir-faire criminel qui manque à Jason et Lucia, et Rockstar l'a pensé comme l'incarnation de Vice City et de son milieu.",
+            "personality_es": "Seguro de sí mismo y experimentado, Raul ha asaltado su buena cantidad de bancos. Aporta la experiencia criminal que les falta a Jason y Lucia, y Rockstar lo concibió como la encarnación de Vice City y su mundo criminal.",
+            "story": "Raul acts as an older mentor to Jason Duval and Lucia Caminos when they arrive in Vice City. He introduces them to the large-scale heists and criminal operations that become part of their story.\n\nIn the Extended Look, Jason and Lucia pick him up while he is running from the police and help him get away. Before leaving, he tells them to keep their phone on: a sign that they are now part of his crew.",
+            "story_fr": "Raul joue les mentors pour Jason Duval et Lucia Caminos à leur arrivée à Vice City. C'est lui qui les fait entrer dans les gros braquages et les opérations criminelles qui marquent leur histoire.\n\nDans l'Extended Look, Jason et Lucia le récupèrent alors qu'il fuit la police et l'aident à s'échapper. Avant de partir, il leur dit de garder leur téléphone allumé : le signe qu'ils font désormais partie de son équipe.",
+            "story_es": "Raul hace de mentor de Jason Duval y Lucia Caminos cuando llegan a Vice City. Es quien los introduce en los grandes golpes y las operaciones criminales que marcan su historia.\n\nEn el Extended Look, Jason y Lucia lo recogen mientras huye de la policía y lo ayudan a escapar. Antes de irse, les pide que dejen el teléfono encendido: señal de que ya forman parte de su banda."
+          }
+        },
+        {
+          "id": "petra-navarro",
+          "name": "Petra Navarro",
+          "aliases": [
+            "Petra"
+          ],
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/characters/petra-navarro.jpg",
+          "summary": "Chief Operating Officer of Megamundo.",
+          "summary_fr": "Directrice des opérations de Megamundo.",
+          "summary_es": "Directora de operaciones de Megamundo.",
+          "fields": {
+            "role": "Supporting character",
+            "role_fr": "Personnage secondaire",
+            "role_es": "Personaje secundario",
+            "affiliation": "Megamundo (COO)",
+            "affiliation_fr": "Megamundo (directrice des opérations)",
+            "affiliation_es": "Megamundo (directora de operaciones)"
+          },
+          "sections": {
+            "story": "Jason Duval and Lucia Caminos are hired as private security by Megamundo. Petra is in the lobby when the pair bring Andrés de León to the building after his flight.\n\nJason, Lucia, Valentina and Andrés then attend the party celebrating the opening of Megamundo's first corporate headquarters in the United States. Petra is later seen being escorted out of the event after a shooting breaks out.",
+            "story_fr": "Jason Duval et Lucia Caminos sont engagés comme agents de sécurité privés par Megamundo. Petra se trouve dans le hall quand le duo amène Andrés de León au siège après son vol.\n\nJason, Lucia, Valentina et Andrés assistent ensuite à la soirée d'inauguration du premier siège de Megamundo aux États-Unis. Petra est plus tard évacuée de la soirée, escortée, après une fusillade.",
+            "story_es": "Jason Duval y Lucia Caminos son contratados como seguridad privada por Megamundo. Petra está en el vestíbulo cuando la pareja lleva a Andrés de León al edificio tras su vuelo.\n\nJason, Lucia, Valentina y Andrés asisten después a la fiesta de inauguración de la primera sede corporativa de Megamundo en Estados Unidos. Más tarde, Petra es escoltada fuera del evento tras un tiroteo."
+          }
+        }
+      ],
+      "weapons": [
+        {
+          "id": "weapon-baseball-bat",
+          "name": "Baseball Bat",
+          "name_fr": "Batte de baseball",
+          "name_es": "Bate de béisbol",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-crowbar",
+          "name": "Crowbar",
+          "name_fr": "Pied-de-biche",
+          "name_es": "Palanca",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-fire-bottle",
+          "name": "Fire Bottle",
+          "name_fr": "Bouteille enflammée",
+          "name_es": "Botella incendiaria",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-fist",
+          "name": "Fist",
+          "name_fr": "Poings",
+          "name_es": "Puños",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-flashlight",
+          "name": "Flashlight",
+          "name_fr": "Lampe de poche",
+          "name_es": "Linterna",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-golf-driver",
+          "name": "Golf Driver",
+          "name_fr": "Driver de golf",
+          "name_es": "Driver de golf",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-golf-iron",
+          "name": "Golf Iron",
+          "name_fr": "Fer de golf",
+          "name_es": "Hierro de golf",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-golf-putter",
+          "name": "Golf Putter",
+          "name_fr": "Putter de golf",
+          "name_es": "Putter de golf",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-golf-wedge",
+          "name": "Golf Wedge",
+          "name_fr": "Wedge de golf",
+          "name_es": "Wedge de golf",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-hammer",
+          "name": "Hammer",
+          "name_fr": "Marteau",
+          "name_es": "Martillo",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-knife",
+          "name": "Knife",
+          "name_fr": "Couteau",
+          "name_es": "Cuchillo",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-pool-cue",
+          "name": "Pool Cue",
+          "name_fr": "Queue de billard",
+          "name_es": "Taco de billar",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-torch-flashlight",
+          "name": "Torch Flashlight",
+          "name_fr": "Grosse lampe torche",
+          "name_es": "Linterna grande",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-mini-golf-club",
+          "name": "Mini Golf Club",
+          "name_fr": "Club de minigolf",
+          "name_es": "Palo de minigolf",
+          "group": "Melee",
+          "group_fr": "Mêlée",
+          "group_es": "Cuerpo a cuerpo",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Melee weapon",
+            "type_fr": "Arme de mêlée",
+            "type_es": "Arma cuerpo a cuerpo"
+          }
+        },
+        {
+          "id": "weapon-mustang-357",
+          "name": "Mustang .357",
+          "group": "Handguns",
+          "group_fr": "Pistolets",
+          "group_es": "Pistolas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Handgun",
+            "type_fr": "Pistolet",
+            "type_es": "Pistola"
+          }
+        },
+        {
+          "id": "weapon-pistol",
+          "name": "Pistol",
+          "name_fr": "Pistolet",
+          "name_es": "Pistola",
+          "group": "Handguns",
+          "group_fr": "Pistolets",
+          "group_es": "Pistolas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Handgun",
+            "type_fr": "Pistolet",
+            "type_es": "Pistola"
+          }
+        },
+        {
+          "id": "weapon-polymer-pistol",
+          "name": "Polymer Pistol",
+          "name_fr": "Pistolet en polymère",
+          "name_es": "Pistola de polímero",
+          "group": "Handguns",
+          "group_fr": "Pistolets",
+          "group_es": "Pistolas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Handgun",
+            "type_fr": "Pistolet",
+            "type_es": "Pistola"
+          }
+        },
+        {
+          "id": "weapon-capo-pistol",
+          "name": "Capo Pistol",
+          "name_fr": "Pistolet Capo",
+          "name_es": "Pistola Capo",
+          "group": "Handguns",
+          "group_fr": "Pistolets",
+          "group_es": "Pistolas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Handgun",
+            "type_fr": "Pistolet",
+            "type_es": "Pistola"
+          }
+        },
+        {
+          "id": "weapon-service-pistol",
+          "name": "Service Pistol",
+          "name_fr": "Pistolet de service",
+          "name_es": "Pistola de servicio",
+          "group": "Handguns",
+          "group_fr": "Pistolets",
+          "group_es": "Pistolas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Handgun",
+            "type_fr": "Pistolet",
+            "type_es": "Pistola"
+          }
+        },
+        {
+          "id": "weapon-compact-pistol",
+          "name": "Compact Pistol",
+          "name_fr": "Pistolet compact",
+          "name_es": "Pistola compacta",
+          "group": "Handguns",
+          "group_fr": "Pistolets",
+          "group_es": "Pistolas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Handgun",
+            "type_fr": "Pistolet",
+            "type_es": "Pistola"
+          }
+        },
+        {
+          "id": "weapon-double-barreled-shotgun",
+          "name": "Double-Barreled Shotgun",
+          "name_fr": "Fusil à double canon",
+          "name_es": "Escopeta de doble cañón",
+          "group": "Shotguns",
+          "group_fr": "Fusils à pompe",
+          "group_es": "Escopetas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Shotgun",
+            "type_fr": "Fusil à pompe",
+            "type_es": "Escopeta"
+          }
+        },
+        {
+          "id": "weapon-compact-smg",
+          "name": "Compact SMG",
+          "name_fr": "Mitraillette compacte",
+          "name_es": "Subfusil compacto",
+          "group": "Machine guns",
+          "group_fr": "Mitraillettes",
+          "group_es": "Ametralladoras",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Machine gun",
+            "type_fr": "Mitraillette",
+            "type_es": "Ametralladora"
+          }
+        },
+        {
+          "id": "weapon-heavy-machine-gun",
+          "name": "Heavy Machine Gun",
+          "name_fr": "Mitrailleuse lourde",
+          "name_es": "Ametralladora pesada",
+          "group": "Machine guns",
+          "group_fr": "Mitraillettes",
+          "group_es": "Ametralladoras",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Machine gun",
+            "type_fr": "Mitraillette",
+            "type_es": "Ametralladora"
+          }
+        },
+        {
+          "id": "weapon-micro-smg",
+          "name": "Micro SMG",
+          "name_fr": "Micro-mitraillette",
+          "name_es": "Microsubfusil",
+          "group": "Machine guns",
+          "group_fr": "Mitraillettes",
+          "group_es": "Ametralladoras",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Machine gun",
+            "type_fr": "Mitraillette",
+            "type_es": "Ametralladora"
+          }
+        },
+        {
+          "id": "weapon-tactical-smg",
+          "name": "Tactical SMG",
+          "name_fr": "Mitraillette tactique",
+          "name_es": "Subfusil táctico",
+          "group": "Machine guns",
+          "group_fr": "Mitraillettes",
+          "group_es": "Ametralladoras",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Machine gun",
+            "type_fr": "Mitraillette",
+            "type_es": "Ametralladora"
+          }
+        },
+        {
+          "id": "weapon-assault-rifle",
+          "name": "Assault Rifle",
+          "name_fr": "Fusil d'assaut",
+          "name_es": "Fusil de asalto",
+          "group": "Assault rifles",
+          "group_fr": "Fusils d'assaut",
+          "group_es": "Fusiles de asalto",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Assault rifle",
+            "type_fr": "Fusil d'assaut",
+            "type_es": "Fusil de asalto"
+          }
+        },
+        {
+          "id": "weapon-duke-carbine",
+          "name": "Duke Carbine",
+          "name_fr": "Carabine Duke",
+          "name_es": "Carabina Duke",
+          "group": "Assault rifles",
+          "group_fr": "Fusils d'assaut",
+          "group_es": "Fusiles de asalto",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Assault rifle",
+            "type_fr": "Fusil d'assaut",
+            "type_es": "Fusil de asalto"
+          }
+        },
+        {
+          "id": "weapon-duke-special-ops-carbine",
+          "name": "Duke Special Ops Carbine",
+          "name_fr": "Carabine Duke opérations spéciales",
+          "name_es": "Carabina Duke de operaciones especiales",
+          "group": "Assault rifles",
+          "group_fr": "Fusils d'assaut",
+          "group_es": "Fusiles de asalto",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Assault rifle",
+            "type_fr": "Fusil d'assaut",
+            "type_es": "Fusil de asalto"
+          }
+        },
+        {
+          "id": "weapon-bolt-action-sniper",
+          "name": "Bolt Action Sniper",
+          "name_fr": "Fusil de précision à verrou",
+          "name_es": "Rifle de cerrojo",
+          "group": "Sniper rifles",
+          "group_fr": "Fusils de précision",
+          "group_es": "Rifles de francotirador",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sniper rifle",
+            "type_fr": "Fusil de précision",
+            "type_es": "Rifle de francotirador"
+          }
+        },
+        {
+          "id": "weapon-hunter-sniper",
+          "name": "Hunter Sniper",
+          "name_fr": "Fusil de précision de chasse",
+          "name_es": "Rifle de caza",
+          "group": "Sniper rifles",
+          "group_fr": "Fusils de précision",
+          "group_es": "Rifles de francotirador",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sniper rifle",
+            "type_fr": "Fusil de précision",
+            "type_es": "Rifle de francotirador"
+          }
+        },
+        {
+          "id": "weapon-duke-assault-sniper-rifle",
+          "name": "Duke Assault Sniper Rifle",
+          "name_fr": "Fusil de précision d'assaut Duke",
+          "name_es": "Rifle de francotirador de asalto Duke",
+          "group": "Sniper rifles",
+          "group_fr": "Fusils de précision",
+          "group_es": "Rifles de francotirador",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sniper rifle",
+            "type_fr": "Fusil de précision",
+            "type_es": "Rifle de francotirador"
+          }
+        },
+        {
+          "id": "weapon-grenade-launcher",
+          "name": "Grenade Launcher",
+          "name_fr": "Lance-grenades",
+          "name_es": "Lanzagranadas",
+          "group": "Heavy weapons",
+          "group_fr": "Armes lourdes",
+          "group_es": "Armas pesadas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Heavy weapon",
+            "type_fr": "Arme lourde",
+            "type_es": "Arma pesada"
+          }
+        },
+        {
+          "id": "weapon-rocket-launcher",
+          "name": "Rocket Launcher",
+          "name_fr": "Lance-roquettes",
+          "name_es": "Lanzacohetes",
+          "group": "Heavy weapons",
+          "group_fr": "Armes lourdes",
+          "group_es": "Armas pesadas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Heavy weapon",
+            "type_fr": "Arme lourde",
+            "type_es": "Arma pesada"
+          }
+        },
+        {
+          "id": "weapon-speargun",
+          "name": "Speargun",
+          "name_fr": "Fusil harpon",
+          "name_es": "Arpón",
+          "group": "Heavy weapons",
+          "group_fr": "Armes lourdes",
+          "group_es": "Armas pesadas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Heavy weapon",
+            "type_fr": "Arme lourde",
+            "type_es": "Arma pesada"
+          }
+        },
+        {
+          "id": "weapon-flashbang",
+          "name": "Flashbangs",
+          "name_fr": "Grenades assourdissantes",
+          "name_es": "Granadas aturdidoras",
+          "group": "Thrown",
+          "group_fr": "Armes de jet",
+          "group_es": "Arrojadizas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Thrown weapon",
+            "type_fr": "Arme de jet",
+            "type_es": "Arma arrojadiza"
+          }
+        },
+        {
+          "id": "weapon-golf-balls",
+          "name": "Golf Balls",
+          "name_fr": "Balles de golf",
+          "name_es": "Pelotas de golf",
+          "group": "Thrown",
+          "group_fr": "Armes de jet",
+          "group_es": "Arrojadizas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Thrown weapon",
+            "type_fr": "Arme de jet",
+            "type_es": "Arma arrojadiza"
+          }
+        },
+        {
+          "id": "weapon-grenade",
+          "name": "Grenades",
+          "name_es": "Granadas",
+          "group": "Thrown",
+          "group_fr": "Armes de jet",
+          "group_es": "Arrojadizas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Thrown weapon",
+            "type_fr": "Arme de jet",
+            "type_es": "Arma arrojadiza"
+          }
+        },
+        {
+          "id": "weapon-molotov",
+          "name": "Molotovs",
+          "name_fr": "Cocktails Molotov",
+          "name_es": "Cócteles molotov",
+          "group": "Thrown",
+          "group_fr": "Armes de jet",
+          "group_es": "Arrojadizas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Thrown weapon",
+            "type_fr": "Arme de jet",
+            "type_es": "Arma arrojadiza"
+          }
+        },
+        {
+          "id": "weapon-smoke-grenade",
+          "name": "Smoke Grenades",
+          "name_fr": "Grenades fumigènes",
+          "name_es": "Granadas de humo",
+          "group": "Thrown",
+          "group_fr": "Armes de jet",
+          "group_es": "Arrojadizas",
+          "summary": "Spotted in GTA 6. Price, how to get it and stats coming soon.",
+          "summary_fr": "Repérée dans GTA 6. Prix, déblocage et statistiques à venir.",
+          "summary_es": "Vista en GTA 6. Precio, cómo obtenerla y estadísticas muy pronto.",
+          "fields": {
+            "type": "Thrown weapon",
+            "type_fr": "Arme de jet",
+            "type_es": "Arma arrojadiza"
+          }
+        }
+      ],
+      "vehicles": [
+        {
+          "id": "vehicle-mamba-gt",
+          "name": "Mamba GT",
+          "group": "Sports cars",
+          "group_fr": "Sportives",
+          "group_es": "Deportivos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sports car",
+            "type_fr": "Sportive",
+            "type_es": "Deportivo"
+          }
+        },
+        {
+          "id": "vehicle-sentinel-classic-cabriolet",
+          "name": "Sentinel Classic Cabriolet",
+          "name_fr": "Sentinel Classic cabriolet",
+          "name_es": "Sentinel Classic descapotable",
+          "group": "Sports cars",
+          "group_fr": "Sportives",
+          "group_es": "Deportivos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Convertible",
+            "type_fr": "Cabriolet",
+            "type_es": "Descapotable"
+          }
+        },
+        {
+          "id": "vehicle-pegassi-sports-car",
+          "name": "Pegassi Sports Car",
+          "name_fr": "Sportive Pegassi",
+          "name_es": "Deportivo Pegassi",
+          "group": "Sports cars",
+          "group_fr": "Sportives",
+          "group_es": "Deportivos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sports car",
+            "type_fr": "Sportive",
+            "type_es": "Deportivo"
+          }
+        },
+        {
+          "id": "vehicle-retro-two-seat-convertible",
+          "name": "Retro Two-Seat Convertible",
+          "name_fr": "Cabriolet biplace rétro",
+          "name_es": "Descapotable biplaza retro",
+          "group": "Sports cars",
+          "group_fr": "Sportives",
+          "group_es": "Deportivos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Convertible",
+            "type_fr": "Cabriolet",
+            "type_es": "Descapotable"
+          }
+        },
+        {
+          "id": "vehicle-convertible",
+          "name": "Convertible",
+          "name_fr": "Cabriolet",
+          "name_es": "Descapotable",
+          "group": "Sports cars",
+          "group_fr": "Sportives",
+          "group_es": "Deportivos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Convertible",
+            "type_fr": "Cabriolet",
+            "type_es": "Descapotable"
+          }
+        },
+        {
+          "id": "vehicle-sports-car",
+          "name": "Sports Car",
+          "name_fr": "Voiture de sport",
+          "name_es": "Coche deportivo",
+          "group": "Sports cars",
+          "group_fr": "Sportives",
+          "group_es": "Deportivos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sports car",
+            "type_fr": "Sportive",
+            "type_es": "Deportivo"
+          }
+        },
+        {
+          "id": "vehicle-pmp-700",
+          "name": "PMP 700",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sedan",
+            "type_fr": "Berline",
+            "type_es": "Sedán"
+          }
+        },
+        {
+          "id": "vehicle-impaler-lx-donk",
+          "name": "Impaler LX Donk",
+          "name_fr": "Impaler LX surélevée",
+          "name_es": "Impaler LX elevado",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Donk",
+            "type_fr": "Donk",
+            "type_es": "Donk"
+          }
+        },
+        {
+          "id": "vehicle-tulip-m100-donk",
+          "name": "Tulip M-100 Donk",
+          "name_fr": "Tulip M-100 surélevée",
+          "name_es": "Tulip M-100 elevado",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Donk",
+            "type_fr": "Donk",
+            "type_es": "Donk"
+          }
+        },
+        {
+          "id": "vehicle-benefactor-saloon",
+          "name": "Benefactor Saloon",
+          "name_fr": "Berline Benefactor",
+          "name_es": "Sedán Benefactor",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sedan",
+            "type_fr": "Berline",
+            "type_es": "Sedán"
+          }
+        },
+        {
+          "id": "vehicle-declasse-sedan",
+          "name": "Declasse Sedan",
+          "name_fr": "Berline Declasse",
+          "name_es": "Sedán Declasse",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sedan",
+            "type_fr": "Berline",
+            "type_es": "Sedán"
+          }
+        },
+        {
+          "id": "vehicle-obey-saloon",
+          "name": "Obey Saloon",
+          "name_fr": "Berline Obey",
+          "name_es": "Sedán Obey",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sedan",
+            "type_fr": "Berline",
+            "type_es": "Sedán"
+          }
+        },
+        {
+          "id": "vehicle-vapid-donk",
+          "name": "Vapid Donk",
+          "name_fr": "Vapid surélevée",
+          "name_es": "Vapid elevado",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Donk",
+            "type_fr": "Donk",
+            "type_es": "Donk"
+          }
+        },
+        {
+          "id": "vehicle-vapid-sedan",
+          "name": "Vapid Sedan",
+          "name_fr": "Berline Vapid",
+          "name_es": "Sedán Vapid",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sedan",
+            "type_fr": "Berline",
+            "type_es": "Sedán"
+          }
+        },
+        {
+          "id": "vehicle-vapid-taxi",
+          "name": "Vapid Taxi",
+          "name_fr": "Taxi Vapid",
+          "name_es": "Taxi Vapid",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Taxi",
+            "type_fr": "Taxi",
+            "type_es": "Taxi"
+          }
+        },
+        {
+          "id": "vehicle-willard-sedan",
+          "name": "Willard Sedan",
+          "name_fr": "Berline Willard",
+          "name_es": "Sedán Willard",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sedan",
+            "type_fr": "Berline",
+            "type_es": "Sedán"
+          }
+        },
+        {
+          "id": "vehicle-vintage-coupe",
+          "name": "Vintage Coupe",
+          "name_fr": "Coupé vintage",
+          "name_es": "Cupé antiguo",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Classic car",
+            "type_fr": "Voiture classique",
+            "type_es": "Clásico"
+          }
+        },
+        {
+          "id": "vehicle-finned-50s-cruiser",
+          "name": "Finned '50s Cruiser",
+          "name_fr": "Américaine à ailerons des années 50",
+          "name_es": "Clásico con aletas de los 50",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Classic car",
+            "type_fr": "Voiture classique",
+            "type_es": "Clásico"
+          }
+        },
+        {
+          "id": "vehicle-family-sedan",
+          "name": "Family Sedan",
+          "name_fr": "Berline familiale",
+          "name_es": "Sedán familiar",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sedan",
+            "type_fr": "Berline",
+            "type_es": "Sedán"
+          }
+        },
+        {
+          "id": "vehicle-mid-50s-classic",
+          "name": "Mid-'50s Classic",
+          "name_fr": "Classique des années 50",
+          "name_es": "Clásico de mediados de los 50",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Classic car",
+            "type_fr": "Voiture classique",
+            "type_es": "Clásico"
+          }
+        },
+        {
+          "id": "vehicle-everyday-sedan",
+          "name": "Everyday Sedan",
+          "name_fr": "Berline de tous les jours",
+          "name_es": "Sedán común",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sedan",
+            "type_fr": "Berline",
+            "type_es": "Sedán"
+          }
+        },
+        {
+          "id": "vehicle-executive-saloon",
+          "name": "Executive Saloon",
+          "name_fr": "Berline haut de gamme",
+          "name_es": "Sedán ejecutivo",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sedan",
+            "type_fr": "Berline",
+            "type_es": "Sedán"
+          }
+        },
+        {
+          "id": "vehicle-luxury-cabriolet",
+          "name": "Luxury Cabriolet",
+          "name_fr": "Cabriolet de luxe",
+          "name_es": "Descapotable de lujo",
+          "group": "Sedans & coupes",
+          "group_fr": "Berlines et coupés",
+          "group_es": "Sedanes y cupés",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Convertible",
+            "type_fr": "Cabriolet",
+            "type_es": "Descapotable"
+          }
+        },
+        {
+          "id": "vehicle-creado",
+          "name": "Creado",
+          "group": "Muscle cars",
+          "group_fr": "Muscle cars",
+          "group_es": "Muscle cars",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Muscle car",
+            "type_fr": "Muscle car",
+            "type_es": "Muscle car"
+          }
+        },
+        {
+          "id": "vehicle-pony-car",
+          "name": "Pony Car",
+          "name_fr": "Pony car",
+          "name_es": "Pony car",
+          "group": "Muscle cars",
+          "group_fr": "Muscle cars",
+          "group_es": "Muscle cars",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Muscle car",
+            "type_fr": "Muscle car",
+            "type_es": "Muscle car"
+          }
+        },
+        {
+          "id": "vehicle-classic-muscle-coupe",
+          "name": "Classic Muscle Coupe",
+          "name_fr": "Coupé muscle classique",
+          "name_es": "Cupé muscle clásico",
+          "group": "Muscle cars",
+          "group_fr": "Muscle cars",
+          "group_es": "Muscle cars",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Muscle car",
+            "type_fr": "Muscle car",
+            "type_es": "Muscle car"
+          }
+        },
+        {
+          "id": "vehicle-declasse-compact",
+          "name": "Declasse Compact",
+          "name_fr": "Citadine Declasse",
+          "name_es": "Compacto Declasse",
+          "group": "Compact cars",
+          "group_fr": "Compactes",
+          "group_es": "Compactos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Compact car",
+            "type_fr": "Compacte",
+            "type_es": "Compacto"
+          }
+        },
+        {
+          "id": "vehicle-vapid-suv-1",
+          "name": "Vapid SUV (1st gen)",
+          "name_fr": "SUV Vapid (1re génération)",
+          "name_es": "SUV Vapid (1.ª generación)",
+          "group": "SUVs & wagons",
+          "group_fr": "SUV et breaks",
+          "group_es": "SUV y familiares",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "SUV",
+            "type_fr": "SUV",
+            "type_es": "SUV"
+          }
+        },
+        {
+          "id": "vehicle-vapid-suv-2",
+          "name": "Vapid SUV (2nd gen)",
+          "name_fr": "SUV Vapid (2e génération)",
+          "name_es": "SUV Vapid (2.ª generación)",
+          "group": "SUVs & wagons",
+          "group_fr": "SUV et breaks",
+          "group_es": "SUV y familiares",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "SUV",
+            "type_fr": "SUV",
+            "type_es": "SUV"
+          }
+        },
+        {
+          "id": "vehicle-willard-station-wagon",
+          "name": "Willard Station Wagon",
+          "name_fr": "Break Willard",
+          "name_es": "Familiar Willard",
+          "group": "SUVs & wagons",
+          "group_fr": "SUV et breaks",
+          "group_es": "SUV y familiares",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Station wagon",
+            "type_fr": "Break",
+            "type_es": "Familiar"
+          }
+        },
+        {
+          "id": "vehicle-premium-suv",
+          "name": "Premium SUV",
+          "name_fr": "SUV haut de gamme",
+          "name_es": "SUV premium",
+          "group": "SUVs & wagons",
+          "group_fr": "SUV et breaks",
+          "group_es": "SUV y familiares",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "SUV",
+            "type_fr": "SUV",
+            "type_es": "SUV"
+          }
+        },
+        {
+          "id": "vehicle-wood-panel-wagon",
+          "name": "Wood-Panel Station Wagon",
+          "name_fr": "Break à panneaux bois",
+          "name_es": "Familiar con paneles de madera",
+          "group": "SUVs & wagons",
+          "group_fr": "SUV et breaks",
+          "group_es": "SUV y familiares",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Station wagon",
+            "type_fr": "Break",
+            "type_es": "Familiar"
+          }
+        },
+        {
+          "id": "vehicle-full-size-suv",
+          "name": "Full-Size SUV",
+          "name_fr": "Grand SUV",
+          "name_es": "SUV grande",
+          "group": "SUVs & wagons",
+          "group_fr": "SUV et breaks",
+          "group_es": "SUV y familiares",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "SUV",
+            "type_fr": "SUV",
+            "type_es": "SUV"
+          }
+        },
+        {
+          "id": "vehicle-compact-suv",
+          "name": "Compact SUV",
+          "name_fr": "SUV compact",
+          "name_es": "SUV compacto",
+          "group": "SUVs & wagons",
+          "group_fr": "SUV et breaks",
+          "group_es": "SUV y familiares",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "SUV",
+            "type_fr": "SUV",
+            "type_es": "SUV"
+          }
+        },
+        {
+          "id": "vehicle-ganado",
+          "name": "Ganado",
+          "group": "Pickups & off-road",
+          "group_fr": "Pickups et tout-terrain",
+          "group_es": "Pickups y todoterreno",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Pickup",
+            "type_fr": "Pickup",
+            "type_es": "Pickup"
+          }
+        },
+        {
+          "id": "vehicle-bison-2",
+          "name": "Bison (2nd gen)",
+          "name_fr": "Bison (2e génération)",
+          "name_es": "Bison (2.ª generación)",
+          "group": "Pickups & off-road",
+          "group_fr": "Pickups et tout-terrain",
+          "group_es": "Pickups y todoterreno",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Pickup",
+            "type_fr": "Pickup",
+            "type_es": "Pickup"
+          }
+        },
+        {
+          "id": "vehicle-riata-classic",
+          "name": "Riata Classic",
+          "group": "Pickups & off-road",
+          "group_fr": "Pickups et tout-terrain",
+          "group_es": "Pickups y todoterreno",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Pickup",
+            "type_fr": "Pickup",
+            "type_es": "Pickup"
+          }
+        },
+        {
+          "id": "vehicle-bravado-pickup",
+          "name": "Bravado Pickup",
+          "name_fr": "Pickup Bravado",
+          "name_es": "Pickup Bravado",
+          "group": "Pickups & off-road",
+          "group_fr": "Pickups et tout-terrain",
+          "group_es": "Pickups y todoterreno",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Pickup",
+            "type_fr": "Pickup",
+            "type_es": "Pickup"
+          }
+        },
+        {
+          "id": "vehicle-bravado-dually",
+          "name": "Bravado Dually Pickup",
+          "name_fr": "Pickup Bravado à roues jumelées",
+          "name_es": "Pickup Bravado de rueda doble",
+          "group": "Pickups & off-road",
+          "group_fr": "Pickups et tout-terrain",
+          "group_es": "Pickups y todoterreno",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Pickup",
+            "type_fr": "Pickup",
+            "type_es": "Pickup"
+          }
+        },
+        {
+          "id": "vehicle-bravado-monster-truck",
+          "name": "Bravado Monster Truck",
+          "name_fr": "Monster truck Bravado",
+          "name_es": "Monster truck Bravado",
+          "group": "Pickups & off-road",
+          "group_fr": "Pickups et tout-terrain",
+          "group_es": "Pickups y todoterreno",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Monster truck",
+            "type_fr": "Monster truck",
+            "type_es": "Monster truck"
+          }
+        },
+        {
+          "id": "vehicle-canis-pickup",
+          "name": "Canis Pickup",
+          "name_fr": "Pickup Canis",
+          "name_es": "Pickup Canis",
+          "group": "Pickups & off-road",
+          "group_fr": "Pickups et tout-terrain",
+          "group_es": "Pickups y todoterreno",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Pickup",
+            "type_fr": "Pickup",
+            "type_es": "Pickup"
+          }
+        },
+        {
+          "id": "vehicle-mid-size-pickup",
+          "name": "Mid-Size Pickup",
+          "name_fr": "Pickup intermédiaire",
+          "name_es": "Pickup mediana",
+          "group": "Pickups & off-road",
+          "group_fr": "Pickups et tout-terrain",
+          "group_es": "Pickups y todoterreno",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Pickup",
+            "type_fr": "Pickup",
+            "type_es": "Pickup"
+          }
+        },
+        {
+          "id": "vehicle-flatbed-truck",
+          "name": "Flatbed Truck",
+          "name_fr": "Camion plateau",
+          "name_es": "Camión de plataforma",
+          "group": "Pickups & off-road",
+          "group_fr": "Pickups et tout-terrain",
+          "group_es": "Pickups y todoterreno",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Flatbed truck",
+            "type_fr": "Camion plateau",
+            "type_es": "Camión de plataforma"
+          }
+        },
+        {
+          "id": "vehicle-compact-pickup",
+          "name": "Compact Pickup",
+          "name_fr": "Pickup compact",
+          "name_es": "Pickup compacta",
+          "group": "Pickups & off-road",
+          "group_fr": "Pickups et tout-terrain",
+          "group_es": "Pickups y todoterreno",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Pickup",
+            "type_fr": "Pickup",
+            "type_es": "Pickup"
+          }
+        },
+        {
+          "id": "vehicle-heavy-duty-monster-truck",
+          "name": "Heavy-Duty Monster Truck",
+          "name_fr": "Monster truck poids lourd",
+          "name_es": "Monster truck pesado",
+          "group": "Pickups & off-road",
+          "group_fr": "Pickups et tout-terrain",
+          "group_es": "Pickups y todoterreno",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Monster truck",
+            "type_fr": "Monster truck",
+            "type_es": "Monster truck"
+          }
+        },
+        {
+          "id": "vehicle-swamp-buggy",
+          "name": "Swamp Buggy",
+          "name_fr": "Buggy des marais",
+          "name_es": "Buggy de pantano",
+          "group": "Pickups & off-road",
+          "group_fr": "Pickups et tout-terrain",
+          "group_es": "Pickups y todoterreno",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Off-road",
+            "type_fr": "Tout-terrain",
+            "type_es": "Todoterreno"
+          }
+        },
+        {
+          "id": "vehicle-alvino-v1",
+          "name": "Alvino V1",
+          "group": "Motorcycles & bikes",
+          "group_fr": "Motos et vélos",
+          "group_es": "Motos y bicicletas",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Motorcycle",
+            "type_fr": "Moto",
+            "type_es": "Moto"
+          }
+        },
+        {
+          "id": "vehicle-carbon-rs",
+          "name": "Carbon RS",
+          "group": "Motorcycles & bikes",
+          "group_fr": "Motos et vélos",
+          "group_es": "Motos y bicicletas",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Motorcycle",
+            "type_fr": "Moto",
+            "type_es": "Moto"
+          }
+        },
+        {
+          "id": "vehicle-sovereign",
+          "name": "Sovereign",
+          "group": "Motorcycles & bikes",
+          "group_fr": "Motos et vélos",
+          "group_es": "Motos y bicicletas",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Motorcycle",
+            "type_fr": "Moto",
+            "type_es": "Moto"
+          }
+        },
+        {
+          "id": "vehicle-sports-bike",
+          "name": "Sports Bike",
+          "name_fr": "Moto sportive",
+          "name_es": "Moto deportiva",
+          "group": "Motorcycles & bikes",
+          "group_fr": "Motos et vélos",
+          "group_es": "Motos y bicicletas",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Motorcycle",
+            "type_fr": "Moto",
+            "type_es": "Moto"
+          }
+        },
+        {
+          "id": "vehicle-lombike",
+          "name": "LomBike",
+          "group": "Motorcycles & bikes",
+          "group_fr": "Motos et vélos",
+          "group_es": "Motos y bicicletas",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Bicycle",
+            "type_fr": "Vélo",
+            "type_es": "Bicicleta"
+          }
+        },
+        {
+          "id": "vehicle-mobility-scooter",
+          "name": "Mobility Scooter",
+          "name_fr": "Scooter de mobilité",
+          "name_es": "Scooter de movilidad",
+          "group": "Motorcycles & bikes",
+          "group_fr": "Motos et vélos",
+          "group_es": "Motos y bicicletas",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Mobility scooter",
+            "type_fr": "Scooter de mobilité",
+            "type_es": "Scooter de movilidad"
+          }
+        },
+        {
+          "id": "vehicle-6x6-conversion-van",
+          "name": "6x6 Conversion Van",
+          "name_fr": "Van aménagé 6x6",
+          "name_es": "Furgoneta camperizada 6x6",
+          "group": "Recreational",
+          "group_fr": "Loisirs",
+          "group_es": "Recreativos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Camper van",
+            "type_fr": "Van aménagé",
+            "type_es": "Furgoneta camper"
+          }
+        },
+        {
+          "id": "vehicle-class-a-motorhome",
+          "name": "Class A Motorhome",
+          "name_fr": "Camping-car classe A",
+          "name_es": "Autocaravana clase A",
+          "group": "Recreational",
+          "group_fr": "Loisirs",
+          "group_es": "Recreativos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Motorhome",
+            "type_fr": "Camping-car",
+            "type_es": "Autocaravana"
+          }
+        },
+        {
+          "id": "vehicle-bison-police-truck",
+          "name": "Bison Police Truck",
+          "name_fr": "Pickup de police Bison",
+          "name_es": "Pickup policial Bison",
+          "group": "Emergency & government",
+          "group_fr": "Urgences et services publics",
+          "group_es": "Emergencias y servicio público",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Police",
+            "type_fr": "Police",
+            "type_es": "Policía"
+          }
+        },
+        {
+          "id": "vehicle-verus-lifeguard-atv",
+          "name": "Verus Lifeguard ATV",
+          "name_fr": "Quad de sauveteur Verus",
+          "name_es": "Cuatrimoto de socorrista Verus",
+          "group": "Emergency & government",
+          "group_fr": "Urgences et services publics",
+          "group_es": "Emergencias y servicio público",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Lifeguard",
+            "type_fr": "Sauveteurs",
+            "type_es": "Socorristas"
+          }
+        },
+        {
+          "id": "vehicle-vapid-ghost-police-car",
+          "name": "Vapid Ghost Police Car",
+          "name_fr": "Voiture de police « ghost » Vapid",
+          "name_es": "Patrulla fantasma Vapid",
+          "group": "Emergency & government",
+          "group_fr": "Urgences et services publics",
+          "group_es": "Emergencias y servicio público",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Police",
+            "type_fr": "Police",
+            "type_es": "Policía"
+          }
+        },
+        {
+          "id": "vehicle-vapid-police-car",
+          "name": "Vapid Police Car",
+          "name_fr": "Voiture de police Vapid",
+          "name_es": "Patrulla Vapid",
+          "group": "Emergency & government",
+          "group_fr": "Urgences et services publics",
+          "group_es": "Emergencias y servicio público",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Police",
+            "type_fr": "Police",
+            "type_es": "Policía"
+          }
+        },
+        {
+          "id": "vehicle-vapid-police-suv",
+          "name": "Vapid Police SUV",
+          "name_fr": "SUV de police Vapid",
+          "name_es": "SUV policial Vapid",
+          "group": "Emergency & government",
+          "group_fr": "Urgences et services publics",
+          "group_es": "Emergencias y servicio público",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Police",
+            "type_fr": "Police",
+            "type_es": "Policía"
+          }
+        },
+        {
+          "id": "vehicle-vapid-unmarked-suv",
+          "name": "Vapid Unmarked SUV",
+          "name_fr": "SUV banalisé Vapid",
+          "name_es": "SUV sin distintivos Vapid",
+          "group": "Emergency & government",
+          "group_fr": "Urgences et services publics",
+          "group_es": "Emergencias y servicio público",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Emergency",
+            "type_fr": "Urgences",
+            "type_es": "Emergencias"
+          }
+        },
+        {
+          "id": "vehicle-police-patrol-boat",
+          "name": "Police Patrol Boat",
+          "name_fr": "Vedette de police",
+          "name_es": "Lancha policial",
+          "group": "Emergency & government",
+          "group_fr": "Urgences et services publics",
+          "group_es": "Emergencias y servicio público",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Police boat",
+            "type_fr": "Bateau de police",
+            "type_es": "Lancha policial"
+          }
+        },
+        {
+          "id": "vehicle-police-helicopter",
+          "name": "Police Helicopter",
+          "name_fr": "Hélicoptère de police",
+          "name_es": "Helicóptero policial",
+          "group": "Emergency & government",
+          "group_fr": "Urgences et services publics",
+          "group_es": "Emergencias y servicio público",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Police helicopter",
+            "type_fr": "Hélicoptère de police",
+            "type_es": "Helicóptero policial"
+          }
+        },
+        {
+          "id": "vehicle-lifeguard-pickup",
+          "name": "Lifeguard Pickup",
+          "name_fr": "Pickup de sauveteur",
+          "name_es": "Pickup de socorrista",
+          "group": "Emergency & government",
+          "group_fr": "Urgences et services publics",
+          "group_es": "Emergencias y servicio público",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Lifeguard",
+            "type_fr": "Sauveteurs",
+            "type_es": "Socorristas"
+          }
+        },
+        {
+          "id": "vehicle-wildlife-patrol-airboat",
+          "name": "Wildlife Patrol Airboat",
+          "name_fr": "Hydroglisseur de la garde-chasse",
+          "name_es": "Aerodeslizador de guardabosques",
+          "group": "Emergency & government",
+          "group_fr": "Urgences et services publics",
+          "group_es": "Emergencias y servicio público",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Airboat",
+            "type_fr": "Hydroglisseur",
+            "type_es": "Aerodeslizador"
+          }
+        },
+        {
+          "id": "vehicle-response-boat",
+          "name": "Response Boat",
+          "name_fr": "Bateau d'intervention",
+          "name_es": "Lancha de respuesta",
+          "group": "Emergency & government",
+          "group_fr": "Urgences et services publics",
+          "group_es": "Emergencias y servicio público",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Police boat",
+            "type_fr": "Bateau de police",
+            "type_es": "Lancha policial"
+          }
+        },
+        {
+          "id": "vehicle-coast-guard-boat",
+          "name": "Coast Guard Boat",
+          "name_fr": "Bateau des garde-côtes",
+          "name_es": "Lancha de guardacostas",
+          "group": "Emergency & government",
+          "group_fr": "Urgences et services publics",
+          "group_es": "Emergencias y servicio público",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Coast guard",
+            "type_fr": "Garde-côtes",
+            "type_es": "Guardacostas"
+          }
+        },
+        {
+          "id": "vehicle-brute-excavator",
+          "name": "Brute Excavator",
+          "name_fr": "Pelleteuse Brute",
+          "name_es": "Excavadora Brute",
+          "group": "Utility & trucks",
+          "group_fr": "Utilitaires et camions",
+          "group_es": "Utilitarios y camiones",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Construction",
+            "type_fr": "Chantier",
+            "type_es": "Construcción"
+          }
+        },
+        {
+          "id": "vehicle-burrito-shuttle-bus",
+          "name": "Burrito Shuttle Bus",
+          "name_fr": "Navette Burrito",
+          "name_es": "Lanzadera Burrito",
+          "group": "Utility & trucks",
+          "group_fr": "Utilitaires et camions",
+          "group_es": "Utilitarios y camiones",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Bus",
+            "type_fr": "Bus",
+            "type_es": "Autobús"
+          }
+        },
+        {
+          "id": "vehicle-bravado-minivan",
+          "name": "Bravado Minivan",
+          "name_fr": "Monospace Bravado",
+          "name_es": "Monovolumen Bravado",
+          "group": "Utility & trucks",
+          "group_fr": "Utilitaires et camions",
+          "group_es": "Utilitarios y camiones",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Minivan",
+            "type_fr": "Monospace",
+            "type_es": "Monovolumen"
+          }
+        },
+        {
+          "id": "vehicle-bravado-minivan-taxi",
+          "name": "Bravado Minivan Taxi",
+          "name_fr": "Taxi monospace Bravado",
+          "name_es": "Taxi monovolumen Bravado",
+          "group": "Utility & trucks",
+          "group_fr": "Utilitaires et camions",
+          "group_es": "Utilitarios y camiones",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Taxi",
+            "type_fr": "Taxi",
+            "type_es": "Taxi"
+          }
+        },
+        {
+          "id": "vehicle-vapid-cargo-van",
+          "name": "Vapid Cargo Van",
+          "name_fr": "Fourgon Vapid",
+          "name_es": "Furgoneta de carga Vapid",
+          "group": "Utility & trucks",
+          "group_fr": "Utilitaires et camions",
+          "group_es": "Utilitarios y camiones",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Van",
+            "type_fr": "Fourgon",
+            "type_es": "Furgoneta"
+          }
+        },
+        {
+          "id": "vehicle-vapid-passenger-van",
+          "name": "Vapid Passenger Van",
+          "name_fr": "Minibus Vapid",
+          "name_es": "Furgoneta de pasajeros Vapid",
+          "group": "Utility & trucks",
+          "group_fr": "Utilitaires et camions",
+          "group_es": "Utilitarios y camiones",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Van",
+            "type_fr": "Fourgon",
+            "type_es": "Furgoneta"
+          }
+        },
+        {
+          "id": "vehicle-sera-minivan",
+          "name": "SERA Minivan",
+          "name_fr": "Monospace SERA",
+          "name_es": "Monovolumen SERA",
+          "group": "Utility & trucks",
+          "group_fr": "Utilitaires et camions",
+          "group_es": "Utilitarios y camiones",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Minivan",
+            "type_fr": "Monospace",
+            "type_es": "Monovolumen"
+          }
+        },
+        {
+          "id": "vehicle-box-truck",
+          "name": "Box Truck",
+          "name_fr": "Camion porteur",
+          "name_es": "Camión de caja",
+          "group": "Utility & trucks",
+          "group_fr": "Utilitaires et camions",
+          "group_es": "Utilitarios y camiones",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Truck",
+            "type_fr": "Camion",
+            "type_es": "Camión"
+          }
+        },
+        {
+          "id": "vehicle-delivery-van",
+          "name": "High-Roof Delivery Van",
+          "name_fr": "Fourgon de livraison",
+          "name_es": "Furgoneta de reparto",
+          "group": "Utility & trucks",
+          "group_fr": "Utilitaires et camions",
+          "group_es": "Utilitarios y camiones",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Van",
+            "type_fr": "Fourgon",
+            "type_es": "Furgoneta"
+          }
+        },
+        {
+          "id": "vehicle-city-bus",
+          "name": "City Bus",
+          "name_fr": "Bus urbain",
+          "name_es": "Autobús urbano",
+          "group": "Utility & trucks",
+          "group_fr": "Utilitaires et camions",
+          "group_es": "Utilitarios y camiones",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Bus",
+            "type_fr": "Bus",
+            "type_es": "Autobús"
+          }
+        },
+        {
+          "id": "vehicle-panel-van",
+          "name": "Panel Van",
+          "name_fr": "Fourgon tôlé",
+          "name_es": "Furgón",
+          "group": "Utility & trucks",
+          "group_fr": "Utilitaires et camions",
+          "group_es": "Utilitarios y camiones",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Van",
+            "type_fr": "Fourgon",
+            "type_es": "Furgoneta"
+          }
+        },
+        {
+          "id": "vehicle-tractor-unit",
+          "name": "Tractor Unit",
+          "name_fr": "Tracteur routier",
+          "name_es": "Cabeza tractora",
+          "group": "Utility & trucks",
+          "group_fr": "Utilitaires et camions",
+          "group_es": "Utilitarios y camiones",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Truck",
+            "type_fr": "Camion",
+            "type_es": "Camión"
+          }
+        },
+        {
+          "id": "vehicle-airboat-09",
+          "name": "Airboat 09",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Airboat",
+            "type_fr": "Hydroglisseur",
+            "type_es": "Aerodeslizador"
+          }
+        },
+        {
+          "id": "vehicle-btn-delmar",
+          "name": "BTN Delmar",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Boat",
+            "type_fr": "Bateau",
+            "type_es": "Barco"
+          }
+        },
+        {
+          "id": "vehicle-s23",
+          "name": "S23",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Speedboat",
+            "type_fr": "Bateau rapide",
+            "type_es": "Lancha rápida"
+          }
+        },
+        {
+          "id": "vehicle-seashark-2",
+          "name": "Seashark (2nd gen)",
+          "name_fr": "Seashark (2e génération)",
+          "name_es": "Seashark (2.ª generación)",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Jet ski",
+            "type_fr": "Jet-ski",
+            "type_es": "Moto de agua"
+          }
+        },
+        {
+          "id": "vehicle-crest-kayak",
+          "name": "Crest Kayak",
+          "name_fr": "Kayak Crest",
+          "name_es": "Kayak Crest",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Kayak",
+            "type_fr": "Kayak",
+            "type_es": "Kayak"
+          }
+        },
+        {
+          "id": "vehicle-lure-predator",
+          "name": "Lure Predator",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Boat",
+            "type_fr": "Bateau",
+            "type_es": "Barco"
+          }
+        },
+        {
+          "id": "vehicle-sport-cruiser-yacht",
+          "name": "Sport Cruiser Yacht",
+          "name_fr": "Yacht sport",
+          "name_es": "Yate deportivo",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Yacht",
+            "type_fr": "Yacht",
+            "type_es": "Yate"
+          }
+        },
+        {
+          "id": "vehicle-flybridge-yacht",
+          "name": "Flybridge Yacht",
+          "name_fr": "Yacht à fly",
+          "name_es": "Yate con flybridge",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Yacht",
+            "type_fr": "Yacht",
+            "type_es": "Yate"
+          }
+        },
+        {
+          "id": "vehicle-express-cruiser",
+          "name": "Express Cruiser",
+          "name_fr": "Cruiser",
+          "name_es": "Crucero exprés",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Boat",
+            "type_fr": "Bateau",
+            "type_es": "Barco"
+          }
+        },
+        {
+          "id": "vehicle-offshore-powerboat",
+          "name": "Offshore Powerboat",
+          "name_fr": "Offshore",
+          "name_es": "Lancha offshore",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Speedboat",
+            "type_fr": "Bateau rapide",
+            "type_es": "Lancha rápida"
+          }
+        },
+        {
+          "id": "vehicle-center-console-boat",
+          "name": "Center Console Boat",
+          "name_fr": "Open à console centrale",
+          "name_es": "Lancha de consola central",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Boat",
+            "type_fr": "Bateau",
+            "type_es": "Barco"
+          }
+        },
+        {
+          "id": "vehicle-bowrider",
+          "name": "Bowrider",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Boat",
+            "type_fr": "Bateau",
+            "type_es": "Barco"
+          }
+        },
+        {
+          "id": "vehicle-luxury-runabout",
+          "name": "Luxury Runabout",
+          "name_fr": "Runabout de luxe",
+          "name_es": "Runabout de lujo",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Speedboat",
+            "type_fr": "Bateau rapide",
+            "type_es": "Lancha rápida"
+          }
+        },
+        {
+          "id": "vehicle-rigid-inflatable-boat",
+          "name": "Rigid Inflatable Boat",
+          "name_fr": "Semi-rigide",
+          "name_es": "Neumática semirrígida",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Boat",
+            "type_fr": "Bateau",
+            "type_es": "Barco"
+          }
+        },
+        {
+          "id": "vehicle-power-catamaran",
+          "name": "Power Catamaran",
+          "name_fr": "Catamaran à moteur",
+          "name_es": "Catamarán a motor",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Yacht",
+            "type_fr": "Yacht",
+            "type_es": "Yate"
+          }
+        },
+        {
+          "id": "vehicle-superyacht",
+          "name": "Superyacht",
+          "name_es": "Superyate",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Yacht",
+            "type_fr": "Yacht",
+            "type_es": "Yate"
+          }
+        },
+        {
+          "id": "vehicle-airboat",
+          "name": "Airboat",
+          "name_fr": "Hydroglisseur",
+          "name_es": "Aerodeslizador",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Airboat",
+            "type_fr": "Hydroglisseur",
+            "type_es": "Aerodeslizador"
+          }
+        },
+        {
+          "id": "vehicle-classic-motor-yacht",
+          "name": "Classic Motor Yacht",
+          "name_fr": "Yacht classique",
+          "name_es": "Yate clásico",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Yacht",
+            "type_fr": "Yacht",
+            "type_es": "Yate"
+          }
+        },
+        {
+          "id": "vehicle-performance-jet-ski",
+          "name": "Performance Jet Ski",
+          "name_fr": "Jet-ski sportif",
+          "name_es": "Moto de agua deportiva",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Jet ski",
+            "type_fr": "Jet-ski",
+            "type_es": "Moto de agua"
+          }
+        },
+        {
+          "id": "vehicle-racing-catamaran",
+          "name": "Racing Catamaran",
+          "name_fr": "Catamaran de course",
+          "name_es": "Catamarán de carreras",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Speedboat",
+            "type_fr": "Bateau rapide",
+            "type_es": "Lancha rápida"
+          }
+        },
+        {
+          "id": "vehicle-cruise-ship",
+          "name": "Cruise Ship",
+          "name_fr": "Paquebot de croisière",
+          "name_es": "Crucero",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Ship",
+            "type_fr": "Navire",
+            "type_es": "Buque"
+          }
+        },
+        {
+          "id": "vehicle-dive-boat",
+          "name": "Dive Boat",
+          "name_fr": "Bateau de plongée",
+          "name_es": "Barco de buceo",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Boat",
+            "type_fr": "Bateau",
+            "type_es": "Barco"
+          }
+        },
+        {
+          "id": "vehicle-fishing-boat",
+          "name": "Fishing Boat",
+          "name_fr": "Bateau de pêche",
+          "name_es": "Barco de pesca",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Fishing boat",
+            "type_fr": "Bateau de pêche",
+            "type_es": "Barco de pesca"
+          }
+        },
+        {
+          "id": "vehicle-offshore-supply-ship",
+          "name": "Offshore Supply Ship",
+          "name_fr": "Navire ravitailleur",
+          "name_es": "Buque de suministro",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Ship",
+            "type_fr": "Navire",
+            "type_es": "Buque"
+          }
+        },
+        {
+          "id": "vehicle-sailing-yacht",
+          "name": "Sailing Yacht",
+          "name_fr": "Voilier",
+          "name_es": "Velero",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Sailboat",
+            "type_fr": "Voilier",
+            "type_es": "Velero"
+          }
+        },
+        {
+          "id": "vehicle-self-propelled-barge",
+          "name": "Self-Propelled Barge",
+          "name_fr": "Barge automotrice",
+          "name_es": "Barcaza autopropulsada",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Barge",
+            "type_fr": "Barge",
+            "type_es": "Barcaza"
+          }
+        },
+        {
+          "id": "vehicle-shrimp-boat",
+          "name": "Shrimp Boat",
+          "name_fr": "Crevettier",
+          "name_es": "Camaronero",
+          "group": "Boats",
+          "group_fr": "Bateaux",
+          "group_es": "Barcos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Fishing boat",
+            "type_fr": "Bateau de pêche",
+            "type_es": "Barco de pesca"
+          }
+        },
+        {
+          "id": "vehicle-radar-blimp",
+          "name": "Tethered Radar Blimp",
+          "name_fr": "Ballon radar captif",
+          "name_es": "Globo radar cautivo",
+          "group": "Aircraft",
+          "group_fr": "Aérien",
+          "group_es": "Aéreos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Blimp",
+            "type_fr": "Dirigeable",
+            "type_es": "Dirigible"
+          }
+        },
+        {
+          "id": "vehicle-weazel-news-helicopter",
+          "name": "Weazel News Helicopter",
+          "name_fr": "Hélicoptère Weazel News",
+          "name_es": "Helicóptero de Weazel News",
+          "group": "Aircraft",
+          "group_fr": "Aérien",
+          "group_es": "Aéreos",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Helicopter",
+            "type_fr": "Hélicoptère",
+            "type_es": "Helicóptero"
+          }
+        },
+        {
+          "id": "vehicle-vcia-train",
+          "name": "VCIA Train",
+          "name_fr": "Train VCIA",
+          "name_es": "Tren VCIA",
+          "group": "Trains & trailers",
+          "group_fr": "Trains et remorques",
+          "group_es": "Trenes y remolques",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Train",
+            "type_fr": "Train",
+            "type_es": "Tren"
+          }
+        },
+        {
+          "id": "vehicle-vcmm-train",
+          "name": "VCMM Train",
+          "name_fr": "Train VCMM",
+          "name_es": "Tren VCMM",
+          "group": "Trains & trailers",
+          "group_fr": "Trains et remorques",
+          "group_es": "Trenes y remolques",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Train",
+            "type_fr": "Train",
+            "type_es": "Tren"
+          }
+        },
+        {
+          "id": "vehicle-passenger-locomotive",
+          "name": "Passenger Locomotive",
+          "name_fr": "Locomotive voyageurs",
+          "name_es": "Locomotora de pasajeros",
+          "group": "Trains & trailers",
+          "group_fr": "Trains et remorques",
+          "group_es": "Trenes y remolques",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Train",
+            "type_fr": "Train",
+            "type_es": "Tren"
+          }
+        },
+        {
+          "id": "vehicle-metro-train",
+          "name": "Metro Train",
+          "name_fr": "Rame de métro",
+          "name_es": "Tren de metro",
+          "group": "Trains & trailers",
+          "group_fr": "Trains et remorques",
+          "group_es": "Trenes y remolques",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Train",
+            "type_fr": "Train",
+            "type_es": "Tren"
+          }
+        },
+        {
+          "id": "vehicle-passenger-railcar",
+          "name": "Passenger Railcar",
+          "name_fr": "Voiture voyageurs",
+          "name_es": "Vagón de pasajeros",
+          "group": "Trains & trailers",
+          "group_fr": "Trains et remorques",
+          "group_es": "Trenes y remolques",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Train",
+            "type_fr": "Train",
+            "type_es": "Tren"
+          }
+        },
+        {
+          "id": "vehicle-box-trailer",
+          "name": "Box Trailer",
+          "name_fr": "Remorque fourgon",
+          "name_es": "Remolque cerrado",
+          "group": "Trains & trailers",
+          "group_fr": "Trains et remorques",
+          "group_es": "Trenes y remolques",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Trailer",
+            "type_fr": "Remorque",
+            "type_es": "Remolque"
+          }
+        },
+        {
+          "id": "vehicle-boat-trailer",
+          "name": "Boat Trailer",
+          "name_fr": "Remorque à bateau",
+          "name_es": "Remolque para barcos",
+          "group": "Trains & trailers",
+          "group_fr": "Trains et remorques",
+          "group_es": "Trenes y remolques",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Trailer",
+            "type_fr": "Remorque",
+            "type_es": "Remolque"
+          }
+        },
+        {
+          "id": "vehicle-flatbed-trailer",
+          "name": "Flatbed Trailer",
+          "name_fr": "Remorque plateau",
+          "name_es": "Remolque de plataforma",
+          "group": "Trains & trailers",
+          "group_fr": "Trains et remorques",
+          "group_es": "Trenes y remolques",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Trailer",
+            "type_fr": "Remorque",
+            "type_es": "Remolque"
+          }
+        },
+        {
+          "id": "vehicle-jet-ski-trailer",
+          "name": "Jet Ski Trailer",
+          "name_fr": "Remorque à jet-ski",
+          "name_es": "Remolque para motos de agua",
+          "group": "Trains & trailers",
+          "group_fr": "Trains et remorques",
+          "group_es": "Trenes y remolques",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Trailer",
+            "type_fr": "Remorque",
+            "type_es": "Remolque"
+          }
+        },
+        {
+          "id": "vehicle-utility-trailer",
+          "name": "Utility Trailer",
+          "name_fr": "Remorque utilitaire",
+          "name_es": "Remolque utilitario",
+          "group": "Trains & trailers",
+          "group_fr": "Trains et remorques",
+          "group_es": "Trenes y remolques",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Trailer",
+            "type_fr": "Remorque",
+            "type_es": "Remolque"
+          }
+        },
+        {
+          "id": "vehicle-arcturus",
+          "name": "Arcturus",
+          "group": "Other",
+          "group_fr": "Autres",
+          "group_es": "Otros",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Unknown type",
+            "type_fr": "Type inconnu",
+            "type_es": "Tipo desconocido"
+          }
+        },
+        {
+          "id": "vehicle-transgressor",
+          "name": "Transgressor",
+          "group": "Other",
+          "group_fr": "Autres",
+          "group_es": "Otros",
+          "summary": "Spotted in GTA 6. Price, where to find it and stats coming soon.",
+          "summary_fr": "Repéré dans GTA 6. Prix, emplacement et statistiques à venir.",
+          "summary_es": "Visto en GTA 6. Precio, ubicación y estadísticas muy pronto.",
+          "fields": {
+            "type": "Unknown type",
+            "type_fr": "Type inconnu",
+            "type_es": "Tipo desconocido"
+          }
+        }
+      ]
+    }
+  }
 }
