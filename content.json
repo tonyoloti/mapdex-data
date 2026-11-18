@@ -1,8 +1,149 @@
 {
-  "version": 4,
+  "version": 5,
   "guide": {
     "entries": {
       "characters": [
+        {
+          "id": "jason-duval",
+          "name": "Jason Duval",
+          "aliases": [
+            "Jason"
+          ],
+          "image": "characters/jason-duval.jpg",
+          "summary": "The other playable lead. He only wants an easy life, and keeps getting the opposite.",
+          "summary_fr": "L'autre héros jouable. Il ne demande qu'une vie tranquille, et récolte toujours l'inverse.",
+          "summary_es": "El otro protagonista jugable. Solo quiere una vida tranquila, y siempre obtiene lo contrario.",
+          "fields": {
+            "role": "Protagonist",
+            "role_fr": "Héros jouable",
+            "role_es": "Protagonista",
+            "affiliation": "Lucia Caminos, Cal Hampton, Brian Heder, Dre'Quan Priest",
+            "affiliation_fr": "Lucia Caminos, Cal Hampton, Brian Heder, Dre'Quan Priest",
+            "affiliation_es": "Lucia Caminos, Cal Hampton, Brian Heder, Dre'Quan Priest",
+            "occupation": "Drug runner, ex-soldier",
+            "occupation_fr": "Trafic de drogue, ancien militaire",
+            "occupation_es": "Narcotraficante, exsoldado",
+            "home": "Key Lento, Leonida Keys",
+            "home_fr": "Key Lento, Leonida Keys",
+            "home_es": "Key Lento, Leonida Keys",
+            "vehicle": "Turquoise Creado, red Tulip",
+            "vehicle_fr": "Creado turquoise, Tulip rouge",
+            "vehicle_es": "Creado turquesa, Tulip rojo"
+          },
+          "sections": {
+            "personality": "Jason grew up around grifters and crooks. He just wants an easy life, but things keep getting harder. Rockstar describes him as the \"brake\" of the duo, with Lucia as the \"engine\": the two push and pull each other throughout the story.",
+            "personality_fr": "Jason a grandi entouré d'arnaqueurs et de voyous. Il ne demande qu'une vie tranquille, mais tout se complique sans cesse. Rockstar le décrit comme le « frein » du duo, et Lucia comme le « moteur » : l'un pousse, l'autre retient, tout au long de l'histoire.",
+            "personality_es": "Jason creció rodeado de estafadores y maleantes. Solo quiere una vida tranquila, pero todo se complica cada vez más. Rockstar lo describe como el \"freno\" del dúo y a Lucia como el \"motor\": se empujan y se frenan el uno al otro durante toda la historia.",
+            "story": "After a stint in the Army trying to shake off his troubled teens, Jason ended up in the Leonida Keys, working for local drug runners. Brian Heder, a veteran of the Keys' drug trade, lets him live rent-free in one of his properties in Key Lento, in exchange for help with local shakedowns.\n\nMeeting Lucia Caminos could be the best or the worst thing that ever happened to him. Together, they get caught up in a criminal conspiracy that spans the whole state of Leonida.\n\nYou can switch between Jason and Lucia, and the player decides whether their relationship stays platonic or turns romantic. The duo is often compared to Bonnie and Clyde: the game's November 19 release date matches the reported date of their first bank robbery, in 1932.",
+            "story_fr": "Après un passage par l'armée pour tourner la page d'une adolescence difficile, Jason a échoué dans les Leonida Keys, où il travaille pour des trafiquants locaux. Brian Heder, vétéran du trafic dans les Keys, le loge gratuitement dans un de ses logements à Key Lento, en échange d'un coup de main pour des intimidations dans le coin.\n\nSa rencontre avec Lucia Caminos pourrait être la meilleure ou la pire chose qui lui soit arrivée. Ensemble, ils se retrouvent pris dans une conspiration criminelle qui s'étend à tout l'État de Leonida.\n\nOn peut passer de Jason à Lucia, et c'est le joueur qui décide si leur relation reste amicale ou devient amoureuse. Le duo est souvent comparé à Bonnie et Clyde : la date de sortie du jeu, le 19 novembre, correspond à celle de leur premier braquage de banque, en 1932.",
+            "story_es": "Tras pasar por el ejército para dejar atrás una adolescencia complicada, Jason acabó en los Leonida Keys, trabajando para narcos locales. Brian Heder, veterano del tráfico en los Keys, le deja vivir gratis en una de sus propiedades en Key Lento a cambio de ayudarle con extorsiones locales.\n\nConocer a Lucia Caminos podría ser lo mejor o lo peor que le ha pasado. Juntos acaban metidos en una conspiración criminal que abarca todo el estado de Leonida.\n\nSe puede cambiar entre Jason y Lucia, y el jugador decide si su relación es de amistad o romántica. El dúo se compara a menudo con Bonnie y Clyde: la fecha de lanzamiento, el 19 de noviembre, coincide con la de su primer atraco a un banco, en 1932."
+          }
+        },
+        {
+          "id": "lucia-caminos",
+          "name": "Lucia Caminos",
+          "aliases": [
+            "Lucia"
+          ],
+          "image": "characters/lucia-caminos.jpg",
+          "summary": "One of the two playable leads. Tough, loyal, and done with second chances.",
+          "summary_fr": "L'une des deux héros jouables. Dure, loyale, et décidée à ne plus gâcher sa chance.",
+          "summary_es": "Una de los dos protagonistas jugables. Dura, leal y decidida a no desperdiciar más oportunidades.",
+          "fields": {
+            "role": "Protagonist",
+            "role_fr": "Héroïne jouable",
+            "role_es": "Protagonista",
+            "affiliation": "Jason Duval's partner",
+            "affiliation_fr": "Partenaire de Jason Duval",
+            "affiliation_es": "Compañera de Jason Duval",
+            "home": "Born in Liberty City",
+            "home_fr": "Née à Liberty City",
+            "home_es": "Nacida en Liberty City",
+            "vehicle": "Red Tulip",
+            "vehicle_fr": "Tulip rouge",
+            "vehicle_es": "Tulip rojo"
+          },
+          "sections": {
+            "personality": "Her father taught her to fight as soon as she could walk. More than anything, Lucia wants the good life her mother has dreamed of since their days in Liberty City, and instead of dreaming, she takes matters into her own hands. Since prison, she only makes smart moves. Rockstar calls her the \"engine\" of the duo.",
+            "personality_fr": "Son père lui a appris à se battre dès qu'elle a su marcher. Plus que tout, Lucia veut offrir la belle vie dont sa mère rêve depuis Liberty City, et au lieu de rêver, elle prend les choses en main. Depuis la prison, elle ne fait plus que des choix réfléchis. Rockstar la décrit comme le « moteur » du duo.",
+            "personality_es": "Su padre le enseñó a pelear en cuanto aprendió a caminar. Por encima de todo, Lucia quiere la buena vida con la que su madre sueña desde Liberty City, y en lugar de soñar, toma las riendas. Desde la cárcel, solo hace movimientos inteligentes. Rockstar la describe como el \"motor\" del dúo.",
+            "story": "Fighting for her family landed Lucia in Leonida Penitentiary, and she only got out through sheer luck.\n\nFresh out of prison, she teams up with Jason Duval. A life with him could be her way out, and she's committed to her plan, no matter what it takes, to change the odds in her favor.\n\nRockstar writer Alexa D'Agostino has said Lucia was inspired by people she knew, including her own mother: rowdy, kind, and never one to let herself be pushed around.",
+            "story_fr": "C'est en se battant pour sa famille que Lucia a fini au pénitencier de Leonida, et elle n'en est sortie que par chance.\n\nÀ peine sortie, elle s'associe à Jason Duval. Une vie avec lui pourrait être sa porte de sortie, et elle est prête à tout pour faire tourner la chance en sa faveur.\n\nLa scénariste de Rockstar Alexa D'Agostino explique s'être inspirée de femmes qu'elle connaît, dont sa propre mère : bagarreuse, généreuse, et qui ne se laisse pas marcher sur les pieds.",
+            "story_es": "Pelear por su familia llevó a Lucia a la Penitenciaría de Leonida, y solo salió por pura suerte.\n\nRecién salida, se asocia con Jason Duval. Una vida con él podría ser su salida, y está decidida a cambiar las cosas a su favor, cueste lo que cueste.\n\nLa guionista de Rockstar Alexa D'Agostino ha contado que se inspiró en personas que conoce, incluida su propia madre: peleona, generosa y sin dejarse pisotear."
+          }
+        },
+        {
+          "id": "drequan-priest",
+          "name": "Dre'Quan Priest",
+          "aliases": [
+            "Dre'Quan"
+          ],
+          "image": "characters/drequan-priest.jpg",
+          "summary": "An ambitious music producer chasing the next big hit.",
+          "summary_fr": "Un producteur ambitieux, à la recherche du prochain tube.",
+          "summary_es": "Un productor ambicioso en busca del próximo gran éxito.",
+          "fields": {
+            "role": "Supporting character",
+            "role_fr": "Personnage secondaire",
+            "role_es": "Personaje secundario",
+            "affiliation": "Real Dimez, Boobie Ike, Lucia Caminos, Jason Duval",
+            "affiliation_fr": "Real Dimez, Boobie Ike, Lucia Caminos, Jason Duval",
+            "affiliation_es": "Real Dimez, Boobie Ike, Lucia Caminos, Jason Duval",
+            "age": "Born in 1998 (about 28)",
+            "age_fr": "Né en 1998 (environ 28 ans)",
+            "age_es": "Nacido en 1998 (unos 28 años)",
+            "occupation": "Record label manager (Only Raw Records)",
+            "occupation_fr": "Patron de label (Only Raw Records)",
+            "occupation_es": "Director de sello (Only Raw Records)",
+            "home": "Leonida",
+            "home_fr": "Leonida",
+            "home_es": "Leonida"
+          },
+          "sections": {
+            "personality": "Born in 1998, Dre'Quan was always more of a hustler than a gangster. Even when he was dealing on the streets to make ends meet, breaking into music was the goal.",
+            "personality_fr": "Né en 1998, Dre'Quan a toujours été plus débrouillard que gangster. Même quand il dealait dans la rue pour joindre les deux bouts, son but restait de percer dans la musique.",
+            "personality_es": "Nacido en 1998, Dre'Quan siempre fue más buscavidas que gánster. Incluso cuando vendía en la calle para llegar a fin de mes, su meta era triunfar en la música.",
+            "story": "Dre'Quan runs the Only Raw Records label. Now that he's signed Real Dimez, his days of booking acts into Boobie Ike's strip club might be numbered: he's setting his sights on the Vice City scene.",
+            "story_fr": "Dre'Quan dirige le label Only Raw Records. Maintenant qu'il a signé Real Dimez, ses jours à programmer des artistes au strip-club de Boobie Ike sont peut-être comptés : il vise désormais la scène de Vice City.",
+            "story_es": "Dre'Quan dirige el sello Only Raw Records. Ahora que ha fichado a Real Dimez, sus días programando artistas en el club de striptease de Boobie Ike podrían estar contados: tiene la vista puesta en la escena de Vice City."
+          }
+        },
+        {
+          "id": "brian-heder",
+          "name": "Brian Heder",
+          "aliases": [
+            "Brian"
+          ],
+          "image": "characters/brian-heder.jpg",
+          "summary": "An old-school smuggler from the Keys who never really retired.",
+          "summary_fr": "Un contrebandier de la vieille école, dans les Keys, qui n'a jamais vraiment pris sa retraite.",
+          "summary_es": "Un contrabandista de la vieja escuela de los Keys que nunca se retiró del todo.",
+          "fields": {
+            "role": "Supporting character",
+            "role_fr": "Personnage secondaire",
+            "role_es": "Personaje secundario",
+            "affiliation": "Jason Duval, Cal Hampton. Married to Lori Heder",
+            "affiliation_fr": "Jason Duval, Cal Hampton. Marié à Lori Heder",
+            "affiliation_es": "Jason Duval, Cal Hampton. Casado con Lori Heder",
+            "occupation": "Boatyard owner, drug trafficker, landlord",
+            "occupation_fr": "Propriétaire d'un chantier naval, trafiquant, bailleur",
+            "occupation_es": "Dueño de un astillero, narcotraficante, casero",
+            "home": "Leonida Keys",
+            "home_fr": "Leonida Keys",
+            "home_es": "Leonida Keys",
+            "vehicle": "Silver Caracara 4x4",
+            "vehicle_fr": "Caracara 4x4 gris argent",
+            "vehicle_es": "Caracara 4x4 plateado"
+          },
+          "sections": {
+            "personality": "A classic drug runner from the golden age of smuggling in the Keys. He looks like a Leonida beach bum but moves like a great white shark, and he's been around long enough to let others do his dirty work. Voiced by Stephen Root.",
+            "personality_fr": "Un passeur de drogue à l'ancienne, de l'âge d'or de la contrebande dans les Keys. Il a l'air d'un retraité de plage, mais il est aussi redoutable qu'un grand requin blanc, et il est dans le milieu depuis assez longtemps pour laisser les autres faire le sale boulot. Voix : Stephen Root.",
+            "personality_es": "Un narco clásico de la época dorada del contrabando en los Keys. Parece un vago de playa de Leonida, pero se mueve como un gran tiburón blanco, y lleva el tiempo suficiente para dejar que otros hagan el trabajo sucio. Voz: Stephen Root.",
+            "story": "Brian still moves product through Brian's Boat Works & Marina, the boatyard he runs with his third wife, Lori. He has two ex-wives.\n\nHe lets Jason Duval live rent-free in one of his properties, as long as Jason helps with local shakedowns and stops by for Lori's sangria once in a while.",
+            "story_fr": "Brian écoule toujours sa marchandise par Brian's Boat Works & Marina, le chantier naval qu'il tient avec Lori, sa troisième femme. Il a deux ex-femmes.\n\nIl loge Jason Duval gratuitement dans un de ses logements, à condition que Jason l'aide pour des intimidations dans le coin et passe de temps en temps boire la sangria de Lori.",
+            "story_es": "Brian sigue moviendo mercancía a través de Brian's Boat Works & Marina, el astillero que lleva con Lori, su tercera esposa. Tiene dos exesposas.\n\nDeja que Jason Duval viva gratis en una de sus propiedades, siempre que le ayude con extorsiones locales y se pase de vez en cuando a probar la sangría de Lori."
+          }
+        },
         {
           "id": "raul-bautista",
           "name": "Raul Bautista",
@@ -52,6 +193,162 @@
             "story": "Jason Duval and Lucia Caminos are hired as private security by Megamundo. Petra is in the lobby when the pair bring Andrés de León to the building after his flight.\n\nJason, Lucia, Valentina and Andrés then attend the party celebrating the opening of Megamundo's first corporate headquarters in the United States. Petra is later seen being escorted out of the event after a shooting breaks out.",
             "story_fr": "Jason Duval et Lucia Caminos sont engagés comme agents de sécurité privés par Megamundo. Petra se trouve dans le hall quand le duo amène Andrés de León au siège après son vol.\n\nJason, Lucia, Valentina et Andrés assistent ensuite à la soirée d'inauguration du premier siège de Megamundo aux États-Unis. Petra est plus tard évacuée de la soirée, escortée, après une fusillade.",
             "story_es": "Jason Duval y Lucia Caminos son contratados como seguridad privada por Megamundo. Petra está en el vestíbulo cuando la pareja lleva a Andrés de León al edificio tras su vuelo.\n\nJason, Lucia, Valentina y Andrés asisten después a la fiesta de inauguración de la primera sede corporativa de Megamundo en Estados Unidos. Más tarde, Petra es escoltada fuera del evento tras un tiroteo."
+          }
+        },
+        {
+          "id": "mendez",
+          "name": "Méndez",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/characters/mendez.jpg",
+          "summary": "A Vice City cop who seems to know exactly who Jason and Lucia are.",
+          "summary_fr": "Un flic de Vice City qui semble savoir exactement qui sont Jason et Lucia.",
+          "summary_es": "Un policía de Vice City que parece saber muy bien quiénes son Jason y Lucia.",
+          "fields": {
+            "role": "Supporting character",
+            "role_fr": "Personnage secondaire",
+            "role_es": "Personaje secundario",
+            "affiliation": "Vice City Police Department",
+            "affiliation_fr": "Vice City Police Department",
+            "affiliation_es": "Vice City Police Department",
+            "occupation": "Police officer",
+            "occupation_fr": "Policier",
+            "occupation_es": "Policía",
+            "home": "Vice City",
+            "home_fr": "Vice City",
+            "home_es": "Vice City"
+          },
+          "sections": {
+            "story": "Méndez is an officer of the Vice City Police Department. He first appears in the second trailer, during a police operation, telling other officers that cops have to protect each other.\n\nIn the Extended Look, he takes part in a raid on a drug operation at the very moment Jason and Lucia are there to collect a shipment, leading to a shootout inside the building. As they escape in an elevator, the pair wonder whether he knows who they are. Méndez is seen shooting one of the armed occupants and giving orders, then turns toward Jason and Lucia just as the doors close.",
+            "story_fr": "Méndez est un agent du Vice City Police Department. Il apparaît d'abord dans la deuxième bande-annonce, pendant une opération de police, où il rappelle aux autres agents que les flics doivent se serrer les coudes.\n\nDans l'Extended Look, il participe à une descente sur un trafic de drogue au moment précis où Jason et Lucia viennent récupérer une livraison, ce qui déclenche une fusillade dans l'immeuble. En fuyant par l'ascenseur, le duo se demande s'il sait qui ils sont. On voit Méndez abattre un des occupants armés et donner des ordres, puis se tourner vers Jason et Lucia juste au moment où les portes se referment.",
+            "story_es": "Méndez es agente del Vice City Police Department. Aparece por primera vez en el segundo tráiler, durante una operación policial, recordando a otros agentes que los polis tienen que protegerse entre sí.\n\nEn el Extended Look, participa en una redada contra una operación de drogas justo cuando Jason y Lucia están allí para recoger un envío, lo que desata un tiroteo en el edificio. Al huir en un ascensor, la pareja se pregunta si sabe quiénes son. Méndez dispara a uno de los ocupantes armados y da órdenes, y se gira hacia Jason y Lucia justo cuando se cierran las puertas."
+          }
+        },
+        {
+          "id": "roxy",
+          "name": "Roxy",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/characters/roxy.jpg",
+          "summary": "One half of the rap duo Real Dimez, with Bae-Luxe.",
+          "summary_fr": "La moitié du duo de rap Real Dimez, avec Bae-Luxe.",
+          "summary_es": "Una mitad del dúo de rap Real Dimez, junto a Bae-Luxe.",
+          "fields": {
+            "role": "Supporting character",
+            "role_fr": "Personnage secondaire",
+            "role_es": "Personaje secundario",
+            "affiliation": "Real Dimez, Bae-Luxe, DWNPLY, Only Raw Records",
+            "affiliation_fr": "Real Dimez, Bae-Luxe, DWNPLY, Only Raw Records",
+            "affiliation_es": "Real Dimez, Bae-Luxe, DWNPLY, Only Raw Records",
+            "occupation": "Rapper",
+            "occupation_fr": "Rappeuse",
+            "occupation_es": "Rapera",
+            "home": "Vice City",
+            "home_fr": "Vice City",
+            "home_es": "Vice City",
+            "vehicle": "Purple Obey saloon",
+            "vehicle_fr": "Berline Obey violette",
+            "vehicle_es": "Sedán Obey morado"
+          },
+          "sections": {
+            "story": "Roxy is one half of the Vice City rap duo Real Dimez, alongside Bae-Luxe. The two have been friends since high school and make money by shaking down local dealers, turning it all into rap tracks and social media content.\n\nAn early hit with local rapper DWNPLY brought the duo success, and they later signed with Only Raw Records.",
+            "story_fr": "Roxy forme avec Bae-Luxe le duo de rap Real Dimez, à Vice City. Amies depuis le lycée, elles se font de l'argent en rackettant les dealers du coin, et en tirent des morceaux de rap et du contenu pour les réseaux.\n\nUn premier tube avec le rappeur local DWNPLY a lancé le duo, qui a ensuite signé chez Only Raw Records.",
+            "story_es": "Roxy forma con Bae-Luxe el dúo de rap Real Dimez, en Vice City. Amigas desde el instituto, ganan dinero extorsionando a los camellos de la zona y lo convierten en temas de rap y contenido para redes.\n\nUn primer éxito con el rapero local DWNPLY lanzó al dúo, que después firmó con Only Raw Records."
+          }
+        },
+        {
+          "id": "bae-luxe",
+          "name": "Bae-Luxe",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/characters/bae-luxe.jpg",
+          "summary": "The other half of Real Dimez, chasing the duo's next big hit.",
+          "summary_fr": "L'autre moitié de Real Dimez, à la recherche du prochain tube du duo.",
+          "summary_es": "La otra mitad de Real Dimez, en busca del próximo gran éxito del dúo.",
+          "fields": {
+            "role": "Supporting character",
+            "role_fr": "Personnage secondaire",
+            "role_es": "Personaje secundario",
+            "affiliation": "Real Dimez, Roxy, DWNPLY, Only Raw Records",
+            "affiliation_fr": "Real Dimez, Roxy, DWNPLY, Only Raw Records",
+            "affiliation_es": "Real Dimez, Roxy, DWNPLY, Only Raw Records",
+            "occupation": "Rapper",
+            "occupation_fr": "Rappeuse",
+            "occupation_es": "Rapera",
+            "home": "Vice City",
+            "home_fr": "Vice City",
+            "home_es": "Vice City",
+            "vehicle": "Black convertible",
+            "vehicle_fr": "Cabriolet noir",
+            "vehicle_es": "Descapotable negro"
+          },
+          "sections": {
+            "story": "Bae-Luxe and Roxy have been friends since high school. As Real Dimez, they made money by shaking down local drug dealers and turning it into rap tracks and social media content.\n\nAn early single with local rapper DWNPLY brought the duo greater success. They later signed with Only Raw Records, hoping to land another hit. Her voice actress has not been officially revealed yet.",
+            "story_fr": "Bae-Luxe et Roxy sont amies depuis le lycée. Sous le nom de Real Dimez, elles se sont fait de l'argent en rackettant les dealers du coin, pour en faire des morceaux de rap et du contenu pour les réseaux.\n\nUn premier single avec le rappeur local DWNPLY a fait décoller le duo. Elles ont ensuite signé chez Only Raw Records, avec l'espoir de décrocher un nouveau tube. Sa doubleuse n'a pas encore été dévoilée officiellement.",
+            "story_es": "Bae-Luxe y Roxy son amigas desde el instituto. Como Real Dimez, ganaron dinero extorsionando a camellos locales y convirtiéndolo en temas de rap y contenido para redes.\n\nUn primer sencillo con el rapero local DWNPLY impulsó al dúo. Después firmaron con Only Raw Records, con la esperanza de lograr otro éxito. Su actriz de voz aún no se ha revelado oficialmente."
+          }
+        },
+        {
+          "id": "ptt-youngins",
+          "name": "PTT Youngin$",
+          "group": "Gangs",
+          "group_fr": "Gangs",
+          "group_es": "Bandas",
+          "summary": "A loud street gang from Southside, Vice City.",
+          "summary_fr": "Un gang de rue bruyant de Southside, à Vice City.",
+          "summary_es": "Una ruidosa banda callejera de Southside, en Vice City.",
+          "fields": {
+            "role": "Gang",
+            "role_fr": "Gang",
+            "role_es": "Banda",
+            "home": "Southside, Vice City",
+            "home_fr": "Southside, Vice City",
+            "home_es": "Southside, Vice City"
+          },
+          "sections": {
+            "story": "The PTT Youngin$ are a street gang operating in Southside, Vice City. Rockstar describes them as one of the area's loudest and most socially active gangs.\n\nTheir compound includes the PTT Youngin$ Illegal Goods Store, which can be raided in the Illegal Goods Store mission, part of the Ultimate Edition content.",
+            "story_fr": "Les PTT Youngin$ sont un gang de rue de Southside, à Vice City. Rockstar les décrit comme l'un des gangs les plus bruyants et les plus actifs sur les réseaux du quartier.\n\nLeur QG abrite la boutique de produits illicites des PTT Youngin$, que l'on peut piller dans la mission « Illegal Goods Store », réservée à l'Ultimate Edition.",
+            "story_es": "Los PTT Youngin$ son una banda callejera de Southside, en Vice City. Rockstar los describe como una de las bandas más ruidosas y activas en redes de la zona.\n\nSu cuartel incluye la tienda de productos ilegales de los PTT Youngin$, que se puede asaltar en la misión \"Illegal Goods Store\", exclusiva de la Ultimate Edition."
+          }
+        },
+        {
+          "id": "san4san",
+          "name": "San4San",
+          "group": "Gangs",
+          "group_fr": "Gangs",
+          "group_es": "Bandas",
+          "summary": "A street gang tied to the Venture Apartments in Vice City.",
+          "summary_fr": "Un gang de rue lié aux Venture Apartments, à Vice City.",
+          "summary_es": "Una banda callejera vinculada a los Venture Apartments, en Vice City.",
+          "fields": {
+            "role": "Gang",
+            "role_fr": "Gang",
+            "role_es": "Banda",
+            "home": "Vice City",
+            "home_fr": "Vice City",
+            "home_es": "Vice City"
+          },
+          "sections": {
+            "story": "San4San, also known as S4S, is a street gang first spotted in promotional footage: the name appears on jewellery worn at a car meet in the first trailer.\n\nTheir territory, leadership and activities haven't been detailed yet, but they appear to be associated with Raymond's operation at the Venture Apartments complex in Vice City, as seen in the Extended Look.",
+            "story_fr": "San4San, aussi appelé S4S, est un gang de rue repéré dans les images promotionnelles : son nom apparaît sur des bijoux portés lors d'un rassemblement de voitures dans la première bande-annonce.\n\nLeur territoire, leur chef et leurs activités n'ont pas encore été détaillés, mais ils semblent liés au business de Raymond dans la résidence Venture Apartments, à Vice City, d'après l'Extended Look.",
+            "story_es": "San4San, también conocida como S4S, es una banda callejera vista en el material promocional: el nombre aparece en joyas que se llevan en una quedada de coches del primer tráiler.\n\nSu territorio, sus líderes y sus actividades aún no se han detallado, pero parecen vinculados al negocio de Raymond en el complejo Venture Apartments de Vice City, según el Extended Look."
+          }
+        },
+        {
+          "id": "final-chapter-mc",
+          "name": "Final Chapter MC",
+          "group": "Gangs",
+          "group_fr": "Gangs",
+          "group_es": "Bandas",
+          "summary": "A motorcycle club running the show in Ambrosia.",
+          "summary_fr": "Un club de motards qui fait la loi à Ambrosia.",
+          "summary_es": "Un club de moteros que manda en Ambrosia.",
+          "fields": {
+            "role": "Gang",
+            "role_fr": "Gang",
+            "role_es": "Banda",
+            "home": "Ambrosia, Leonida",
+            "home_fr": "Ambrosia, Leonida",
+            "home_es": "Ambrosia, Leonida"
+          },
+          "sections": {
+            "story": "The Final Chapter Motorcycle Club operates in Ambrosia, Leonida. Members wear matching club vests bearing the Final Chapter name and an apparent 1982 founding date.\n\nThe club is tied to local crime in Ambrosia: the Allied Crystal sugar refinery provides the jobs, and the bikers supply much of the town's other activity.",
+            "story_fr": "Le Final Chapter Motorcycle Club sévit à Ambrosia, à Leonida. Ses membres portent des gilets assortis avec le nom du club et une date de fondation apparente : 1982.\n\nLe club est lié à la criminalité locale : la raffinerie de sucre Allied Crystal fournit les emplois, et les motards s'occupent d'une bonne partie du reste.",
+            "story_es": "El Final Chapter Motorcycle Club opera en Ambrosia, Leonida. Sus miembros llevan chalecos a juego con el nombre del club y una aparente fecha de fundación: 1982.\n\nEl club está ligado a la delincuencia local: la refinería de azúcar Allied Crystal da los empleos, y los moteros se encargan de buena parte de lo demás."
           }
         }
       ],
@@ -3388,6 +3685,248 @@
             "description": "A snake-like fish that lives in rivers and estuaries.",
             "description_fr": "Poisson serpentiforme des rivières et des estuaires.",
             "description_es": "Pez de aspecto de serpiente que vive en ríos y estuarios."
+          }
+        }
+      ],
+      "music": [
+        {
+          "id": "cocoteo-fm",
+          "name": "Cocoteo FM",
+          "summary": "Today's Latin hits for a party that never stops.",
+          "summary_fr": "Les tubes latinos du moment, pour une fête qui ne s'arrête jamais.",
+          "fields": {
+            "genre": "Modern Latin",
+            "genre_fr": "Latine moderne",
+            "hosts": "El Martillo, La Gata",
+            "genre_es": "Latino moderno"
+          },
+          "sections": {
+            "description": "Leonida's home for the best of modern Latin music, hosted by El Martillo and La Gata: bachata, merengue, dembow and reggaeton. Cocoteo FM is the party that never stops.",
+            "description_fr": "La radio de Leonida pour la meilleure musique latine moderne, animée par El Martillo et La Gata : bachata, merengue, dembow et reggaeton. Cocoteo FM, c'est la fête qui ne s'arrête jamais.",
+            "description_es": "El hogar de Leonida para lo mejor de la música latina moderna, con El Martillo y La Gata: bachata, merengue, dembow y reguetón. Cocoteo FM es el party que nunca se apaga.",
+            "notes": "Heard in the station preview on Rockstar's website:\n• Bad Bunny, \"EoO\" (2025)\n• Axel Rulay ft. Farruko & El Alfa, \"Si Es Trucho Es Trucho\" (Remix) (2021)\n• Romeo Santos & El Chaval de la Bachata, \"Canalla\" (2019)",
+            "notes_fr": "Morceaux entendus dans l'aperçu de la station sur le site de Rockstar :\n• Bad Bunny, \"EoO\" (2025)\n• Axel Rulay ft. Farruko & El Alfa, \"Si Es Trucho Es Trucho\" (Remix) (2021)\n• Romeo Santos & El Chaval de la Bachata, \"Canalla\" (2019)",
+            "notes_es": "Canciones del avance de la emisora en la web de Rockstar:\n• Bad Bunny, \"EoO\" (2025)\n• Axel Rulay ft. Farruko & El Alfa, \"Si Es Trucho Es Trucho\" (Remix) (2021)\n• Romeo Santos & El Chaval de la Bachata, \"Canalla\" (2019)"
+          },
+          "group": "Radio stations",
+          "group_fr": "Radios",
+          "group_es": "Emisoras",
+          "image": "radio/cocoteo-fm.jpg",
+          "summary_es": "Los éxitos latinos del momento, para una fiesta que nunca para."
+        },
+        {
+          "id": "back-country-radio",
+          "name": "Back Country Radio",
+          "summary": "Country with an attitude, made for a ride across the swamps.",
+          "summary_fr": "De la country qui a du caractère, faite pour traverser les marais.",
+          "fields": {
+            "genre": "Outlaw country",
+            "genre_fr": "Country rebelle",
+            "hosts": "MW, Delta Dawne",
+            "genre_es": "Country rebelde"
+          },
+          "sections": {
+            "description": "MW and Delta Dawne blast renegade country to the Grassrivers, Port Gellhorn and beyond. Stay tuned for roving reporter and swamp meteorologist Mud Dog Mike, Delta's not-so-secret lover, checking in from his Grassrivers airboat.",
+            "description_fr": "MW et Delta Dawne envoient de la country rebelle jusqu'aux Grassrivers, à Port Gellhorn et au-delà. Restez à l'écoute pour Mud Dog Mike, reporter et météorologue des marais, l'amant pas si secret de Delta, en direct de son hydroglisseur.",
+            "description_es": "MW y Delta Dawne lanzan country rebelde a los Grassrivers, Port Gellhorn y más allá. Atentos a Mud Dog Mike, reportero itinerante y meteorólogo del pantano, amante no tan secreto de Delta, desde su aerodeslizador.",
+            "notes": "Heard in the station preview on Rockstar's website:\n• David Allan Coe, \"Need a Little Time Off for Bad Behavior\" (1987)\n• Loretta Lynn, \"Don't Come Home A-Drinkin' (With Lovin' on Your Mind)\" (1966)\n• Hank Williams Jr. & Waylon Jennings, \"The Conversation\" (1983)",
+            "notes_fr": "Morceaux entendus dans l'aperçu de la station sur le site de Rockstar :\n• David Allan Coe, \"Need a Little Time Off for Bad Behavior\" (1987)\n• Loretta Lynn, \"Don't Come Home A-Drinkin' (With Lovin' on Your Mind)\" (1966)\n• Hank Williams Jr. & Waylon Jennings, \"The Conversation\" (1983)",
+            "notes_es": "Canciones del avance de la emisora en la web de Rockstar:\n• David Allan Coe, \"Need a Little Time Off for Bad Behavior\" (1987)\n• Loretta Lynn, \"Don't Come Home A-Drinkin' (With Lovin' on Your Mind)\" (1966)\n• Hank Williams Jr. & Waylon Jennings, \"The Conversation\" (1983)"
+          },
+          "group": "Radio stations",
+          "group_fr": "Radios",
+          "group_es": "Emisoras",
+          "image": "radio/back-country-radio.jpg",
+          "summary_es": "Country con carácter, hecho para cruzar los pantanos."
+        },
+        {
+          "id": "afro-bank-fm",
+          "name": "AfroBank FM",
+          "summary": "African sounds old and new, from amapiano to timeless classics.",
+          "summary_fr": "Les sons africains d'hier et d'aujourd'hui, de l'amapiano aux grands classiques.",
+          "fields": {
+            "genre": "Amapiano, African classics, 3-Step",
+            "genre_fr": "Amapiano, classiques africains, 3-Step",
+            "hosts": "Burna, Palmsy",
+            "genre_es": "Amapiano, clásicos africanos, 3-Step"
+          },
+          "sections": {
+            "description": "Burna and Palmsy, AfroBank FM's dynamic duo, curate the best of African music: 20th-century classics, undiscovered gems and contemporary sounds like amapiano and 3-step.",
+            "description_fr": "Burna et Palmsy, le duo de choc d'AfroBank FM, sélectionnent le meilleur de la musique africaine : classiques du XXe siècle, pépites méconnues et sons actuels comme l'amapiano et le 3-step.",
+            "description_es": "Burna y Palmsy, el dúo dinámico de AfroBank FM, seleccionan lo mejor de la música africana: clásicos del siglo XX, joyas por descubrir y sonidos actuales como el amapiano y el 3-step.",
+            "notes": "Heard in the station preview on Rockstar's website:\n• Asake, \"Joha\" (2022)\n• Pat Thomas ft. Ebo Taylor, \"Gye Wani\" (2024)\n• DJ Lag & Robot Boii ft. Kamo Mphela, \"Shay'sana\" (2024)",
+            "notes_fr": "Morceaux entendus dans l'aperçu de la station sur le site de Rockstar :\n• Asake, \"Joha\" (2022)\n• Pat Thomas ft. Ebo Taylor, \"Gye Wani\" (2024)\n• DJ Lag & Robot Boii ft. Kamo Mphela, \"Shay'sana\" (2024)",
+            "notes_es": "Canciones del avance de la emisora en la web de Rockstar:\n• Asake, \"Joha\" (2022)\n• Pat Thomas ft. Ebo Taylor, \"Gye Wani\" (2024)\n• DJ Lag & Robot Boii ft. Kamo Mphela, \"Shay'sana\" (2024)"
+          },
+          "group": "Radio stations",
+          "group_fr": "Radios",
+          "group_es": "Emisoras",
+          "image": "radio/afro-bank-fm.jpg",
+          "summary_es": "Sonidos africanos de ayer y de hoy, del amapiano a los clásicos de siempre."
+        },
+        {
+          "id": "the-chamber",
+          "name": "The Chamber 106.6",
+          "summary": "The heaviest station in Leonida, for those who like it loud.",
+          "summary_fr": "La station la plus lourde de Leonida, pour ceux qui aiment quand ça cogne.",
+          "fields": {
+            "genre": "Metal",
+            "genre_fr": "Metal",
+            "hosts": "DJ Kerry, DJ Tom",
+            "genre_es": "Metal"
+          },
+          "sections": {
+            "description": "Crushing metal has landed in Leonida. DJ Kerry and DJ Tom play classic metal from the '80s and beyond, channelling Leonida's deep metal roots.",
+            "description_fr": "Le metal qui écrase tout a débarqué à Leonida. DJ Kerry et DJ Tom passent les classiques du metal des années 80 à aujourd'hui, en hommage aux racines metal de Leonida.",
+            "description_es": "El metal más demoledor ha llegado a Leonida. DJ Kerry y DJ Tom pinchan metal clásico de los 80 en adelante, fieles a las profundas raíces metaleras de Leonida.",
+            "notes": "Heard in the station preview on Rockstar's website:\n• Black Sabbath, \"I\" (1992)\n• Pantera, \"I'm Broken\" (1994)\n• Slayer, \"Raining Blood\" (1986), already on V-Rock in GTA: Vice City",
+            "notes_fr": "Morceaux entendus dans l'aperçu de la station sur le site de Rockstar :\n• Black Sabbath, \"I\" (1992)\n• Pantera, \"I'm Broken\" (1994)\n• Slayer, \"Raining Blood\" (1986), déjà sur V-Rock dans GTA: Vice City",
+            "notes_es": "Canciones del avance de la emisora en la web de Rockstar:\n• Black Sabbath, \"I\" (1992)\n• Pantera, \"I'm Broken\" (1994)\n• Slayer, \"Raining Blood\" (1986), ya sonaba en V-Rock en GTA: Vice City"
+          },
+          "group": "Radio stations",
+          "group_fr": "Radios",
+          "group_es": "Emisoras",
+          "image": "radio/the-chamber.jpg",
+          "summary_es": "La emisora más pesada de Leonida, para los que lo quieren a todo volumen."
+        },
+        {
+          "id": "flash-fm",
+          "name": "Flash FM",
+          "summary": "Vice City's signature pop station is back, packed with dancefloor hits.",
+          "summary_fr": "La station pop emblématique de Vice City revient, avec des tubes faits pour danser.",
+          "fields": {
+            "genre": "Pop",
+            "genre_fr": "Pop",
+            "hosts": "Robyn, Alex",
+            "genre_es": "Pop"
+          },
+          "sections": {
+            "description": "The Vice City institution for the best in pop, with Robyn and Alex: guaranteed to make you dance wherever you are in the Goodtime State.",
+            "description_fr": "L'institution de Vice City pour la meilleure pop, avec Robyn et Alex : de quoi danser où que vous soyez dans le Goodtime State.",
+            "description_es": "La institución de Vice City para lo mejor del pop, con Robyn y Alex: te hará bailar estés donde estés en el Goodtime State.",
+            "notes": "Heard in the station preview on Rockstar's website:\n• Charli XCX, \"Good Ones\" (2021)\n• MGMT, \"Electric Feel\" (2008)\n• Zara Larsson & PinkPantheress, \"Midnight Sun (Girls Trip)\" (2026)\n• Harry Styles, \"As It Was\" (2022)\n• Ariana Grande ft. Zedd, \"Break Free\" (2014)",
+            "notes_fr": "Morceaux entendus dans l'aperçu de la station sur le site de Rockstar :\n• Charli XCX, \"Good Ones\" (2021)\n• MGMT, \"Electric Feel\" (2008)\n• Zara Larsson & PinkPantheress, \"Midnight Sun (Girls Trip)\" (2026)\n• Harry Styles, \"As It Was\" (2022)\n• Ariana Grande ft. Zedd, \"Break Free\" (2014)",
+            "notes_es": "Canciones del avance de la emisora en la web de Rockstar:\n• Charli XCX, \"Good Ones\" (2021)\n• MGMT, \"Electric Feel\" (2008)\n• Zara Larsson & PinkPantheress, \"Midnight Sun (Girls Trip)\" (2026)\n• Harry Styles, \"As It Was\" (2022)\n• Ariana Grande ft. Zedd, \"Break Free\" (2014)"
+          },
+          "group": "Radio stations",
+          "group_fr": "Radios",
+          "group_es": "Emisoras",
+          "image": "radio/flash-fm.jpg",
+          "summary_es": "La emisora pop emblemática de Vice City vuelve, cargada de éxitos para la pista de baile."
+        },
+        {
+          "id": "dirty-south-classics",
+          "name": "Dirty South Classics",
+          "summary": "Regional rap and the hip-hop classics that shaped the South.",
+          "summary_fr": "Le rap local et les classiques hip-hop qui ont fait le son du Sud.",
+          "fields": {
+            "genre": "Southern rap, hip-hop classics",
+            "genre_fr": "Rap du Sud, classiques hip-hop",
+            "hosts": "Trick, Trina",
+            "genre_es": "Rap del Sur, clásicos del hip-hop"
+          },
+          "sections": {
+            "description": "A little southern hospitality from Trick and Trina, blasting regional rap and hip-hop classics. From the beach to the block, nobody reps Leonida and the South like they do.",
+            "description_fr": "Un peu d'hospitalité du Sud avec Trick et Trina, qui envoient les classiques du rap et du hip-hop régional. De la plage au quartier, personne ne représente Leonida et le Sud comme eux.",
+            "description_es": "Un poco de hospitalidad sureña con Trick y Trina, que pinchan clásicos del rap y el hip-hop regional. De la playa al barrio, nadie representa a Leonida y al Sur como ellos.",
+            "notes": "Heard in the station preview on Rockstar's website:\n• David Banner ft. Lil' Flip, \"Like a Pimp\" (2003)\n• JT Money ft. Solé, \"Who Dat (JT Money Song)\" (1999)\n• DJ Khaled ft. Trick Daddy, Rick Ross & Pitbull, \"Born-N-Raised\" (2006)",
+            "notes_fr": "Morceaux entendus dans l'aperçu de la station sur le site de Rockstar :\n• David Banner ft. Lil' Flip, \"Like a Pimp\" (2003)\n• JT Money ft. Solé, \"Who Dat (JT Money Song)\" (1999)\n• DJ Khaled ft. Trick Daddy, Rick Ross & Pitbull, \"Born-N-Raised\" (2006)",
+            "notes_es": "Canciones del avance de la emisora en la web de Rockstar:\n• David Banner ft. Lil' Flip, \"Like a Pimp\" (2003)\n• JT Money ft. Solé, \"Who Dat (JT Money Song)\" (1999)\n• DJ Khaled ft. Trick Daddy, Rick Ross & Pitbull, \"Born-N-Raised\" (2006)"
+          },
+          "group": "Radio stations",
+          "group_fr": "Radios",
+          "group_es": "Emisoras",
+          "image": "radio/dirty-south-classics.jpg",
+          "summary_es": "Rap local y los clásicos del hip-hop que marcaron el Sur."
+        },
+        {
+          "id": "vice-city-fm",
+          "name": "Vice City FM",
+          "group": "Radio stations",
+          "group_fr": "Radios",
+          "group_es": "Emisoras",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/radio/vice-city-fm.jpg",
+          "summary": "Non-stop '80s, back from Episodes from Liberty City.",
+          "summary_fr": "Les années 80 non-stop, de retour depuis Episodes from Liberty City.",
+          "summary_es": "Los 80 sin parar, de vuelta desde Episodes from Liberty City.",
+          "fields": {
+            "genre": "'80s pop",
+            "genre_fr": "Pop des années 80",
+            "genre_es": "Pop de los 80"
+          },
+          "sections": {
+            "description": "An ad for Vice City FM appears in the Extended Look, confirming the station's return from Episodes from Liberty City. A promotional poster seen in Miami confirms the format: non-stop '80s.",
+            "description_fr": "Une pub pour Vice City FM apparaît dans l'Extended Look et confirme le retour de la station, déjà présente dans Episodes from Liberty City. Une affiche promotionnelle vue à Miami confirme le format : les années 80 non-stop.",
+            "description_es": "Un anuncio de Vice City FM aparece en el Extended Look y confirma el regreso de la emisora de Episodes from Liberty City. Un cartel promocional visto en Miami confirma el formato: los 80 sin parar."
+          }
+        },
+        {
+          "id": "v-rock",
+          "name": "V-Rock",
+          "group": "Radio stations",
+          "group_fr": "Radios",
+          "group_es": "Emisoras",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/radio/v-rock.jpg",
+          "summary": "Vice City's rock station is back.",
+          "summary_fr": "La radio rock de Vice City est de retour.",
+          "summary_es": "La emisora de rock de Vice City ha vuelto.",
+          "fields": {
+            "genre": "Rock",
+            "genre_fr": "Rock",
+            "genre_es": "Rock"
+          },
+          "sections": {
+            "description": "Revealed by an ad for the game in Miami, V-Rock returns for the first time since GTA: Vice City and Vice City Stories (it was only mentioned in Episodes from Liberty City and GTA Online). Early teasers showed Jason Duval wearing a V-Rock T-shirt, with an updated logo and the mascot, Jimmy the Vulture.",
+            "description_fr": "Révélée par une pub pour le jeu à Miami, V-Rock revient pour la première fois depuis GTA: Vice City et Vice City Stories (elle n'était que mentionnée dans Episodes from Liberty City et GTA Online). Dans les premiers teasers, Jason Duval porte un t-shirt V-Rock, avec un logo modernisé et la mascotte, Jimmy le vautour.",
+            "description_es": "Revelada por un anuncio del juego en Miami, V-Rock vuelve por primera vez desde GTA: Vice City y Vice City Stories (solo se mencionaba en Episodes from Liberty City y GTA Online). En los primeros teasers, Jason Duval lleva una camiseta de V-Rock, con el logo renovado y la mascota, Jimmy el buitre."
+          }
+        },
+        {
+          "id": "stockyard-fm",
+          "name": "Stockyard FM",
+          "group": "Radio stations",
+          "group_fr": "Radios",
+          "group_es": "Emisoras",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/radio/stockyard-fm.jpg",
+          "summary": "A pop station broadcasting from Stockyard, Vice City.",
+          "summary_fr": "Une radio pop qui émet depuis Stockyard, à Vice City.",
+          "summary_es": "Una emisora pop que emite desde Stockyard, en Vice City.",
+          "fields": {
+            "genre": "Pop",
+            "genre_fr": "Pop",
+            "genre_es": "Pop"
+          },
+          "sections": {
+            "description": "Stockyard FM (SFM on the radio wheel) is a pop station based in Stockyard, Vice City. Its full playlist will be added soon.",
+            "description_fr": "Stockyard FM (SFM sur la roue des radios) est une station pop basée à Stockyard, à Vice City. Sa playlist complète sera ajoutée bientôt.",
+            "description_es": "Stockyard FM (SFM en la rueda de emisoras) es una emisora pop con sede en Stockyard, Vice City. Su lista completa se añadirá pronto.",
+            "notes": "Tracks confirmed so far:\n• Róisín Murphy, \"Overpowered\" (2007)",
+            "notes_fr": "Morceaux confirmés pour l'instant :\n• Róisín Murphy, \"Overpowered\" (2007)",
+            "notes_es": "Canciones confirmadas por ahora:\n• Róisín Murphy, \"Overpowered\" (2007)"
+          }
+        },
+        {
+          "id": "radio-on-u",
+          "name": "Radio On-U",
+          "group": "Radio stations",
+          "group_fr": "Radios",
+          "group_es": "Emisoras",
+          "imageUrl": "https://raw.githubusercontent.com/tonyoloti/mapdex-data/main/images/radio/radio-on-u.jpg",
+          "summary": "Reggae and dub, in the spirit of the On-U Sound label.",
+          "summary_fr": "Du reggae et du dub, dans l'esprit du label On-U Sound.",
+          "summary_es": "Reggae y dub, al estilo del sello On-U Sound.",
+          "fields": {
+            "genre": "Reggae, dub",
+            "genre_fr": "Reggae, dub",
+            "genre_es": "Reggae, dub"
+          },
+          "sections": {
+            "description": "Radio On-U (ON U on the radio wheel) plays reggae and dub. It is likely built around On-U Sound Records, the English label known for its dub productions. Its full playlist will be added soon.",
+            "description_fr": "Radio On-U (ON U sur la roue des radios) passe du reggae et du dub. Elle s'inspire sans doute d'On-U Sound Records, le label anglais connu pour ses productions dub. Sa playlist complète sera ajoutée bientôt.",
+            "description_es": "Radio On-U (ON U en la rueda de emisoras) pone reggae y dub. Probablemente se basa en On-U Sound Records, el sello inglés conocido por sus producciones de dub. Su lista completa se añadirá pronto.",
+            "notes": "Tracks confirmed so far:\n• \"Skylarking\"",
+            "notes_fr": "Morceaux confirmés pour l'instant :\n• \"Skylarking\"",
+            "notes_es": "Canciones confirmadas por ahora:\n• \"Skylarking\""
           }
         }
       ]
